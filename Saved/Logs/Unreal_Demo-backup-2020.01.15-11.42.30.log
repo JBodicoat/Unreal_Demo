@@ -1,0 +1,1078 @@
+﻿Log file open, 01/15/20 11:39:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Unreal_Demo
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(939557926) SRandInit(939557927).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.184275
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.221s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-S0KGSDJ (192.168.0.27:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.01.15-11.40.00:647][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.15-11.40.00:647][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.15-11.40.00:672][  0]LogInit: Computer: DESKTOP-S0KGSDJ
+[2020.01.15-11.40.00:672][  0]LogInit: User: Jack
+[2020.01.15-11.40.00:672][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.15-11.40.00:672][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.15-11.40.00:672][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.01.15-11.40.00:672][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.15-11.40.00:672][  0]LogMemory: Process Physical Memory: 273.88 MB used, 273.89 MB peak
+[2020.01.15-11.40.00:672][  0]LogMemory: Process Virtual Memory: 266.14 MB used, 266.14 MB peak
+[2020.01.15-11.40.00:672][  0]LogMemory: Physical Memory: 4923.93 MB used,  11416.22 MB free, 16340.15 MB total
+[2020.01.15-11.40.00:672][  0]LogMemory: Virtual Memory: 4769.61 MB used,  11416.22 MB free, 134217728.00 MB total
+[2020.01.15-11.40.00:699][  0]LogInit: Using OS detected language (en-GB).
+[2020.01.15-11.40.00:699][  0]LogInit: Using OS detected locale (en-GB).
+[2020.01.15-11.40.00:704][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.01.15-11.40.01:125][  0]LogStreaming: Display: Took  0.425s to EndInitTextLocalization.
+[2020.01.15-11.40.01:125][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.15-11.40.01:170][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.15-11.40.01:170][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.15-11.40.01:481][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.15-11.40.01:553][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.01.15-11.40.01:553][  0]LogD3D11RHI:       2987/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.01.15-11.40.01:556][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.15-11.40.01:556][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.15-11.40.01:556][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.15-11.40.01:563][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.15-11.40.01:563][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.15-11.40.01:563][  0]LogWindows: EnumDisplayDevices:
+[2020.01.15-11.40.01:563][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2020.01.15-11.40.01:563][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2020.01.15-11.40.01:563][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.01.15-11.40.01:563][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.01.15-11.40.01:563][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.01.15-11.40.01:564][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.01.15-11.40.01:564][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.01.15-11.40.01:564][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.01.15-11.40.01:564][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2020.01.15-11.40.01:609][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2020.01.15-11.40.01:609][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2020.01.15-11.40.01:609][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.15-11.40.01:626][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.15-11.40.01:629][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Programming_Portfolio/Unreal_Demo/Intermediate/Shaders/WorkingDirectory/15604/).
+[2020.01.15-11.40.01:629][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jack/AppData/Local/Temp/UnrealShaderWorkingDir/71BF373B419B0F6F03D97B8D163F66AD/'.
+[2020.01.15-11.40.01:880][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.01.15-11.40.01:894][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.01.15-11.40.01:907][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.01.15-11.40.01:921][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.01.15-11.40.01:935][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.01.15-11.40.01:948][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.01.15-11.40.01:962][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.01.15-11.40.01:976][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.01.15-11.40.01:981][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.01.15-11.40.01:993][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.01.15-11.40.02:006][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.01.15-11.40.02:019][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.01.15-11.40.02:031][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2020.01.15-11.40.02:044][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.01.15-11.40.02:056][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.01.15-11.40.02:081][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.01.15-11.40.02:081][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.01.15-11.40.02:094][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.01.15-11.40.02:096][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.01.15-11.40.02:133][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.01.15-11.40.02:147][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.01.15-11.40.02:160][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.01.15-11.40.02:173][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.01.15-11.40.02:184][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.01.15-11.40.02:197][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.01.15-11.40.02:197][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.15-11.40.02:321][  0]LogXGEController: Cleaning working directory: C:/Users/Jack/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.15-11.40.02:321][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.15-11.40.02:321][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.15-11.40.02:321][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.15-11.40.03:034][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.15-11.40.03:104][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/Jack/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2020.01.15-11.40.03:104][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jack/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2020.01.15-11.40.03:105][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Programming_Portfolio/Unreal_Demo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.15-11.40.03:105][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.15-11.40.03:105][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Programming_Portfolio/Unreal_Demo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.15-11.40.03:105][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.15-11.40.03:121][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.15-11.40.03:134][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jack/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.15-11.40.03:134][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.15-11.40.03:134][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.15-11.40.03:145][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.15-11.40.03:145][  0]LogSlate: Using Freetype 2.6.0
+[2020.01.15-11.40.03:146][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.15-11.40.03:146][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.15-11.40.03:290][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2020.01.15-11.40.03:594][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.15-11.40.03:751][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.01.15-11.40.03:753][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.01.15-11.40.03:753][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.15-11.40.03:753][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.01.15-11.40.03:754][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.01.15-11.40.03:754][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.01.15-11.40.03:794][  0]LogNetVersion: Unreal_Demo , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 411565208)
+[2020.01.15-11.40.04:299][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.095668 seconds
+[2020.01.15-11.40.04:304][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2020.01.15-11.40.04:304][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2020.01.15-11.40.04:304][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.15-11.40.06:142][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.15-11.40.06:177][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.15-11.40.06:605][  0]SourceControl: Source control is disabled
+[2020.01.15-11.40.06:605][  0]SourceControl: Source control is disabled
+[2020.01.15-11.40.06:627][  0]SourceControl: Source control is disabled
+[2020.01.15-11.40.06:649][  0]SourceControl: Source control is disabled
+[2020.01.15-11.40.07:243][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.15-11.40.07:498][  0]LogOcInput: OculusInput pre-init called
+[2020.01.15-11.40.07:624][  0]LogEngine: Initializing Engine...
+[2020.01.15-11.40.07:625][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.15-11.40.07:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.15-11.40.07:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.15-11.40.07:853][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.15-11.40.07:903][  0]LogInit: XAudio2 using 'Headphones (ATH-M50xBT     Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2020.01.15-11.40.08:390][  0]LogInit: FAudioDevice initialized.
+[2020.01.15-11.40.08:484][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/Jack/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2020.01.15-11.40.08:496][  0]LogInit: Texture streaming: Enabled
+[2020.01.15-11.40.08:510][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.15-11.40.08:524][  0]LogInit: Transaction tracking system initialized
+[2020.01.15-11.40.08:544][  0]BlueprintLog: New page: Editor Load
+[2020.01.15-11.40.08:606][  0]LocalizationService: Localization service is disabled
+[2020.01.15-11.40.08:711][  0]LogConsoleResponse: Display: 
+[2020.01.15-11.40.08:880][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.15-11.40.08:880][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.15-11.40.08:880][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.01.15-11.40.08:880][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.01.15-11.40.08:880][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.01.15-11.40.09:324][  0]LogFileCache: Scanning file cache for directory 'D:/Programming_Portfolio/Unreal_Demo/Content/' took 0.02s
+[2020.01.15-11.40.09:324][  0]SourceControl: Source control is disabled
+[2020.01.15-11.40.09:324][  0]Cmd: MAP LOAD FILE="../../../../../../Programming_Portfolio/Unreal_Demo/Content/LevelDesign/Game_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.15-11.40.09:329][  0]LightingResults: New page: Lighting Build
+[2020.01.15-11.40.09:331][  0]MapCheck: New page: Map Check
+[2020.01.15-11.40.09:332][  0]LightingResults: New page: Lighting Build
+[2020.01.15-11.40.09:365][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261de67e438, Size=4, Default__LD_playerController_C Function /Game/LevelDesign/Blueprints/LD_playerController.LD_playerController_C:ExecuteUbergraph_LD_playerController
+[2020.01.15-11.40.09:367][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261de67e438, Size=4
+[2020.01.15-11.40.09:367][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261de67e438, Size=4, Default__LD_playerController_C Function /Engine/Transient.REINST_LD_playerController_C_1:ExecuteUbergraph_LD_playerController
+[2020.01.15-11.40.09:368][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261de67e380, Size=4, Default__LD_playerController_C Function /Game/LevelDesign/Blueprints/LD_playerController.LD_playerController_C:ExecuteUbergraph_LD_playerController
+[2020.01.15-11.40.09:466][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261e03a7d00, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2020.01.15-11.40.09:477][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261e03a7d00, Size=64
+[2020.01.15-11.40.09:477][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261e03a7dc0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2020.01.15-11.40.09:485][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261dffc6480, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2020.01.15-11.40.09:644][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261e9b10f00, Size=1152, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2020.01.15-11.40.09:655][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261e9b10f00, Size=1152
+[2020.01.15-11.40.09:655][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261e9af9d00, Size=1152, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_9:ExecuteUbergraph_ThirdPersonCharacter
+[2020.01.15-11.40.09:665][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261e9b10f00, Size=1152, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2020.01.15-11.40.09:723][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261dfdc5c00, Size=184, Default__BP_Auto_Door_C Function /Game/LevelDesign/Blueprints/BP_Auto_Door.BP_Auto_Door_C:ExecuteUbergraph_BP_Auto_Door
+[2020.01.15-11.40.09:731][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261dfdc5c00, Size=184
+[2020.01.15-11.40.09:731][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261dfdc5c00, Size=184, Default__BP_Auto_Door_C Function /Engine/Transient.REINST_BP_Auto_Door_C_11:ExecuteUbergraph_BP_Auto_Door
+[2020.01.15-11.40.09:737][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261e14e7700, Size=184, Default__BP_Auto_Door_C Function /Game/LevelDesign/Blueprints/BP_Auto_Door.BP_Auto_Door_C:ExecuteUbergraph_BP_Auto_Door
+[2020.01.15-11.40.09:762][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261dfdd5940, Size=264, Default__BP_Lift_C Function /Game/LevelDesign/Blueprints/BP_Lift.BP_Lift_C:ExecuteUbergraph_BP_Lift
+[2020.01.15-11.40.09:767][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261dfdd5940, Size=264
+[2020.01.15-11.40.09:767][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261dfdd5940, Size=264, Default__BP_Lift_C Function /Engine/Transient.REINST_BP_Lift_C_13:ExecuteUbergraph_BP_Lift
+[2020.01.15-11.40.09:771][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261e14b7880, Size=264, Default__BP_Lift_C Function /Game/LevelDesign/Blueprints/BP_Lift.BP_Lift_C:ExecuteUbergraph_BP_Lift
+[2020.01.15-11.40.09:817][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261e14a5b40, Size=224, Default__Pickup_Blueprint_C Function /Game/Provision/Pickup_Blueprint.Pickup_Blueprint_C:ExecuteUbergraph_Pickup_Blueprint
+[2020.01.15-11.40.09:820][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261e14a5b40, Size=224
+[2020.01.15-11.40.09:820][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261e14a5b40, Size=224, Default__Pickup_Blueprint_C Function /Engine/Transient.REINST_Pickup_Blueprint_C_19:ExecuteUbergraph_Pickup_Blueprint
+[2020.01.15-11.40.09:822][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261e14a4720, Size=224, Default__Pickup_Blueprint_C Function /Game/Provision/Pickup_Blueprint.Pickup_Blueprint_C:ExecuteUbergraph_Pickup_Blueprint
+[2020.01.15-11.40.10:026][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261e144d800, Size=72, Default__Game_Level_C Function /Game/LevelDesign/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2020.01.15-11.40.10:028][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261e144d800, Size=72
+[2020.01.15-11.40.10:028][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261e427fab0, Size=72, Default__Game_Level_C Function /Engine/Transient.REINST_Game_Level_C_21:ExecuteUbergraph_Game_Level
+[2020.01.15-11.40.10:030][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000261e427e1b0, Size=72, Default__Game_Level_C Function /Game/LevelDesign/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2020.01.15-11.40.10:190][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [12.468600ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.01.15-11.40.10:361][  0]LogAIModule: Creating AISystem for world Game_Level
+[2020.01.15-11.40.10:400][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.15-11.40.10:416][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261de67e438, Size=4
+[2020.01.15-11.40.10:416][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261e03a7dc0, Size=64
+[2020.01.15-11.40.10:416][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261e9af9d00, Size=1152
+[2020.01.15-11.40.10:416][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261dfdc5c00, Size=184
+[2020.01.15-11.40.10:416][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261dfdd5940, Size=264
+[2020.01.15-11.40.10:416][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261e14a5b40, Size=224
+[2020.01.15-11.40.10:416][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261e427fab0, Size=72
+[2020.01.15-11.40.10:417][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.15-11.40.10:486][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 69.192ms to complete.
+[2020.01.15-11.40.10:486][  0]LogFileHelpers: Loading map 'Game_Level' took 1.161
+[2020.01.15-11.40.10:641][  0]LogCollectionManager: Loaded 0 collections in 0.001372 seconds
+[2020.01.15-11.40.10:688][  0]LogFileCache: Scanning file cache for directory 'D:/Programming_Portfolio/Unreal_Demo/Saved/Collections/' took 0.01s
+[2020.01.15-11.40.10:688][  0]LogFileCache: Scanning file cache for directory 'D:/Programming_Portfolio/Unreal_Demo/Content/Developers/Jack/Collections/' took 0.01s
+[2020.01.15-11.40.10:688][  0]LogFileCache: Scanning file cache for directory 'D:/Programming_Portfolio/Unreal_Demo/Content/Collections/' took 0.01s
+[2020.01.15-11.40.10:688][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.01.15-11.40.10:697][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2452 classes and 558 folders.
+[2020.01.15-11.40.10:703][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.15-11.40.10:771][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.01.15-11.40.10:775][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.01.15-11.40.10:863][  0]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.15-11.40.10:865][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.15-11.40.10:871][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.15-11.40.10:975][  0]LogRenderer: Reallocating scene render targets to support 1152x572 Format 10 NumSamples 1 (Frame:1).
+[2020.01.15-11.40.11:160][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.15-11.40.11:160][  0]LogLoad: (Engine Initialization) Total time: 13.31 seconds
+[2020.01.15-11.40.11:160][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.15-11.40.11:212][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.15-11.40.11:277][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Programming_Portfolio/Unreal_Demo/Content/' took 0.08s
+[2020.01.15-11.40.11:293][  1]LogAssetRegistry: Asset discovery search completed in 8.0245 seconds
+[2020.01.15-11.40.11:294][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.01.15-11.40.11:294][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2020.01.15-11.40.51:495][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-11.40.51:684][392]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.15-11.40.52:502][392]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2020.01.15-11.40.52:891][392]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262075f59f8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2020.01.15-11.40.52:891][392]LogUObjectGlobals: Created PersistentFrame Addr=0x00000262075f59f0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2020.01.15-11.40.53:825][392]LogSlate: Took 0.018637 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.15-11.41.01:641][820]LogRenderer: Reallocating scene render targets to support 1152x668 Format 10 NumSamples 1 (Frame:1).
+[2020.01.15-11.41.12:022][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.15-11.41.12:073][380]LogSlate: Window 'LD_playerController' being destroyed
+[2020.01.15-11.41.12:101][380]LogSlate: Window 'LD_playerController' being destroyed
+[2020.01.15-11.41.39:022][904]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Interact_button' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:029][904]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_1' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:031][904]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_3' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:042][905]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_5' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:044][905]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_7' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:058][906]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_9' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:061][906]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_11' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:075][907]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_13' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:077][907]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_15' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:092][908]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_17' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:094][908]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_19' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:108][909]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_21' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:110][909]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_23' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:126][910]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_25' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:127][910]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_27' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:142][911]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_29' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:159][912]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_31' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:176][913]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_33' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:193][914]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_35' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:209][915]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_37' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:226][916]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_39' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:242][917]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_41' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:259][918]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_43' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:279][919]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_45' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:295][920]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_47' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:312][921]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_49' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:328][922]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_51' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:345][923]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_53' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:362][924]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_55' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:378][925]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_57' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:394][926]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_59' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:396][926]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_61' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:412][927]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_63' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:428][928]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_65' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:445][929]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_67' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:461][930]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_69' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:463][930]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_71' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:479][931]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_73' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:494][932]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_75' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:496][932]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_77' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:512][933]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_79' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:528][934]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_81' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:530][934]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_83' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:545][935]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_85' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:561][936]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_87' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:563][936]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_89' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:578][937]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_91' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:580][937]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_93' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:594][938]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_95' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:596][938]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_97' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:611][939]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_99' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:613][939]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_101' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:628][940]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_103' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:631][940]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_105' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:644][941]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_107' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:646][941]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_109' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:661][942]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_111' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:663][942]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_113' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:678][943]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_115' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:679][943]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_117' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:695][944]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_119' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:711][945]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_121' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:713][945]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_123' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:728][946]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_125' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:744][947]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_127' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:746][947]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_129' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:762][948]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_131' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:778][949]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_133' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:780][949]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_135' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:794][950]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_137' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:796][950]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_139' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:811][951]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_141' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:813][951]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_143' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:828][952]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_145' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:845][953]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_147' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:861][954]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_149' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:863][954]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_151' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:877][955]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_153' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:883][955]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_155' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:895][956]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_157' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:911][957]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_159' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:928][958]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_161' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:945][959]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_163' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:962][960]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_165' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:978][961]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_167' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.39:995][962]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_169' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:012][963]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_171' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:028][964]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_173' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:045][965]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_175' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:062][966]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_177' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:079][967]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_179' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:095][968]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_181' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:112][969]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_183' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:129][970]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_185' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:145][971]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_187' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:163][972]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_189' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:179][973]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_191' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:195][974]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_193' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:212][975]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_195' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:229][976]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_197' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:245][977]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_199' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:262][978]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_201' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:279][979]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_203' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:295][980]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_205' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:312][981]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_207' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:329][982]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_209' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:345][983]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_211' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:362][984]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_213' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:378][985]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_215' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:395][986]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_217' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:413][987]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_219' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:429][988]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_221' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:445][989]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_223' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:462][990]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_225' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:478][991]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_227' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:495][992]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_229' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:512][993]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_231' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:528][994]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_233' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:545][995]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_235' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:562][996]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_237' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:578][997]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_239' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:595][998]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_241' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:612][999]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_243' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:628][  0]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_245' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:645][  1]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_247' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:662][  2]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_249' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:679][  3]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_251' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:696][  4]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_253' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:712][  5]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_255' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:728][  6]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_257' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:745][  7]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_259' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:762][  8]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_261' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:778][  9]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_263' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:795][ 10]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_265' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:812][ 11]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_267' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:828][ 12]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_269' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:845][ 13]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_271' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:862][ 14]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_273' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:878][ 15]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_275' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:895][ 16]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_277' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:911][ 17]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_279' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:928][ 18]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_281' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:945][ 19]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_283' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:962][ 20]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_285' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:979][ 21]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_287' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.40:995][ 22]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_289' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:012][ 23]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_291' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:028][ 24]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_293' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:045][ 25]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_295' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:062][ 26]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_297' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:079][ 27]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_299' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:095][ 28]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_301' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:112][ 29]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_303' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:129][ 30]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_305' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:145][ 31]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_307' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:162][ 32]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_309' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:178][ 33]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_311' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:195][ 34]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_313' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:212][ 35]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_315' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:229][ 36]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_317' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:245][ 37]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_319' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:262][ 38]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_321' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:278][ 39]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_323' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:296][ 40]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_325' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:312][ 41]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_327' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:329][ 42]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_329' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:345][ 43]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_331' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:362][ 44]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_333' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:379][ 45]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_335' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:395][ 46]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_337' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:412][ 47]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_339' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:428][ 48]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_341' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:445][ 49]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_343' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:462][ 50]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_345' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:479][ 51]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_347' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:495][ 52]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_349' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:511][ 53]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_351' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:528][ 54]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_353' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:546][ 55]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_355' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:562][ 56]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_357' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:579][ 57]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_359' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:595][ 58]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_361' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:612][ 59]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_363' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:629][ 60]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_365' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:645][ 61]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_367' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:662][ 62]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_369' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:679][ 63]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_371' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:694][ 64]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_373' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:697][ 64]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_375' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:712][ 65]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_377' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:729][ 66]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_379' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:744][ 67]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_381' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:745][ 67]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_383' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:747][ 67]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_385' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:762][ 68]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_387' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:779][ 69]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_389' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:795][ 70]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_391' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:812][ 71]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_393' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:829][ 72]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_395' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:844][ 73]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_397' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:846][ 73]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_399' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:862][ 74]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_401' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:877][ 75]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_403' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:880][ 75]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_405' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:895][ 76]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_407' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:911][ 77]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_409' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:913][ 77]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_411' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:927][ 78]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_413' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:930][ 78]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_415' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:945][ 79]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_417' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:947][ 79]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_419' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:962][ 80]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_421' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:978][ 81]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_423' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:980][ 81]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_425' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:994][ 82]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_427' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.41:996][ 82]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_429' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:012][ 83]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_431' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:027][ 84]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_433' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:030][ 84]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_435' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:044][ 85]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_437' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:046][ 85]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_439' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:061][ 86]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_441' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:063][ 86]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_443' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:078][ 87]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_445' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:080][ 87]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_447' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:095][ 88]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_449' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:112][ 89]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_451' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:128][ 90]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_453' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:130][ 90]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_455' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:145][ 91]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_457' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:161][ 92]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_459' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:164][ 92]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_461' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:179][ 93]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_463' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:195][ 94]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_465' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:211][ 95]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_467' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:213][ 95]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_469' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:228][ 96]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_471' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:245][ 97]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_473' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:262][ 98]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_475' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:279][ 99]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_477' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:295][100]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_479' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:312][101]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_481' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:329][102]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_483' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:345][103]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_485' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:362][104]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_487' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:377][105]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_489' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:381][105]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_491' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:395][106]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_493' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:396][106]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_495' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:411][107]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_497' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:413][107]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_499' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:427][108]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_501' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:428][108]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_503' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:431][108]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_505' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:444][109]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_507' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:446][109]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_509' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:449][109]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_511' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:461][110]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_513' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:463][110]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_515' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:478][111]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_517' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:480][111]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_519' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:494][112]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_521' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:497][112]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_523' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:511][113]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_525' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:513][113]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_527' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:527][114]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_529' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:530][114]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_531' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:546][115]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_533' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:562][116]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_535' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:578][117]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_537' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:580][117]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_539' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:595][118]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_541' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:611][119]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_543' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:613][119]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_545' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:628][120]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_547' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:630][120]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_549' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:645][121]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_551' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:663][122]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_553' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:679][123]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_555' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:695][124]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_557' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:712][125]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_559' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:729][126]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_561' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:746][127]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_563' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:762][128]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_565' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:779][129]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_567' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:795][130]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_569' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:812][131]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_571' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:829][132]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_573' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:845][133]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_575' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:862][134]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_577' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:879][135]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_579' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:896][136]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_581' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:913][137]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_583' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:930][138]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_585' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:946][139]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_587' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:963][140]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_589' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:980][141]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_591' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.42:996][142]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_593' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:013][143]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_595' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:030][144]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_597' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:046][145]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_599' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:063][146]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_601' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:079][147]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_603' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:097][148]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_605' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:113][149]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_607' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:129][150]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_609' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:146][151]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_611' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:163][152]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_613' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:180][153]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_615' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:196][154]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_617' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:213][155]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_619' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:230][156]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_621' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:246][157]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_623' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:263][158]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_625' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:279][159]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_627' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:296][160]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_629' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.43:313][161]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_631' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2020.01.15-11.41.55:480][863]LogEditorTransaction: Undo Edit Bottom
+[2020.01.15-11.41.55:766][875]Cmd: TRANSACTION UNDO
+[2020.01.15-11.41.55:766][875]LogEditorTransaction: Undo Edit Right
+[2020.01.15-11.42.19:475][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelDesign/Blueprints/W_Interact" FILE="../../../../../../Programming_Portfolio/Unreal_Demo/Content/LevelDesign/Blueprints/W_Interact.uasset" SILENT=true
+[2020.01.15-11.42.19:674][291]LogSavePackage: Save=186.42ms
+[2020.01.15-11.42.19:676][291]LogSavePackage: Moving '../../../../../../Programming_Portfolio/Unreal_Demo/Saved/W_Interact219426DF4CC84A47C3E1CA9DC391ED4D.tmp' to '../../../../../../Programming_Portfolio/Unreal_Demo/Content/LevelDesign/Blueprints/W_Interact.uasset'
+[2020.01.15-11.42.19:684][291]LogSavePackage: Display: Finished SavePackage ../../../../../../Programming_Portfolio/Unreal_Demo/Content/LevelDesign/Blueprints/W_Interact.uasset
+[2020.01.15-11.42.27:052][671]LogSlate: Window 'Unreal_Demo - Unreal Editor' being destroyed
+[2020.01.15-11.42.27:053][671]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.15-11.42.27:258][672]Cmd: QUIT_EDITOR
+[2020.01.15-11.42.27:306][672]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.01.15-11.42.27:306][672]LogExit: Preparing to exit.
+[2020.01.15-11.42.28:280][672]LogDirectoryWatcher: A directory notification for 'D:/Programming_Portfolio/Unreal_Demo/Content/' was aborted.
+[2020.01.15-11.42.28:320][672]LogExit: Editor shut down
+[2020.01.15-11.42.28:323][672]LogExit: Transaction tracking system shut down
+[2020.01.15-11.42.28:323][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261de67e380, Size=4
+[2020.01.15-11.42.28:324][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261dffc6480, Size=72
+[2020.01.15-11.42.28:324][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261e9b10f00, Size=1152
+[2020.01.15-11.42.28:324][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261e14e7700, Size=184
+[2020.01.15-11.42.28:325][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261e14b7880, Size=264
+[2020.01.15-11.42.28:325][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261e14a4720, Size=224
+[2020.01.15-11.42.28:326][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000261e427e1b0, Size=72
+[2020.01.15-11.42.28:329][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262075f59f8, Size=4
+[2020.01.15-11.42.28:329][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000262075f59f0, Size=4
+[2020.01.15-11.42.28:504][672]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2020.01.15-11.42.28:504][672]LogDirectoryWatcher: A directory notification for '../../../../../../Programming_Portfolio/Unreal_Demo/Content/' was aborted.
+[2020.01.15-11.42.28:504][672]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2020.01.15-11.42.28:504][672]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2020.01.15-11.42.28:504][672]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2020.01.15-11.42.28:505][672]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2020.01.15-11.42.28:505][672]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2020.01.15-11.42.28:505][672]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2020.01.15-11.42.28:583][672]LogExit: Object subsystem successfully closed.
+[2020.01.15-11.42.28:594][672]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.01.15-11.42.28:596][672]LogD3D11RHI: Shutdown
+[2020.01.15-11.42.28:596][672]LogD3D11RHI: CleanupD3DDevice
+[2020.01.15-11.42.28:599][672]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.01.15-11.42.28:607][672]LogModuleManager: Shutting down and abandoning module SequencerWidgets (578)
+[2020.01.15-11.42.28:607][672]LogModuleManager: Shutting down and abandoning module BlueprintGraph (576)
+[2020.01.15-11.42.28:607][672]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2020.01.15-11.42.28:607][672]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2020.01.15-11.42.28:607][672]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2020.01.15-11.42.28:607][672]LogDirectoryWatcher: A directory notification for 'D:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2020.01.15-11.42.28:608][672]LogDirectoryWatcher: A directory notification for 'D:/Programming_Portfolio/Unreal_Demo/Content/Collections/' was aborted.
+[2020.01.15-11.42.28:608][672]LogDirectoryWatcher: A directory notification for 'D:/Programming_Portfolio/Unreal_Demo/Content/Developers/Jack/Collections/' was aborted.
+[2020.01.15-11.42.28:608][672]LogDirectoryWatcher: A directory notification for 'D:/Programming_Portfolio/Unreal_Demo/Saved/Collections/' was aborted.
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2020.01.15-11.42.28:608][672]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2020.01.15-11.42.28:609][672]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2020.01.15-11.42.28:743][672]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2020.01.15-11.42.28:743][672]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2020.01.15-11.42.28:743][672]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2020.01.15-11.42.28:743][672]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2020.01.15-11.42.28:743][672]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2020.01.15-11.42.28:743][672]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2020.01.15-11.42.28:744][672]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2020.01.15-11.42.28:744][672]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2020.01.15-11.42.28:744][672]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2020.01.15-11.42.28:744][672]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2020.01.15-11.42.28:744][672]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2020.01.15-11.42.28:744][672]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2020.01.15-11.42.28:744][672]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2020.01.15-11.42.28:744][672]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2020.01.15-11.42.28:744][672]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2020.01.15-11.42.28:744][672]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2020.01.15-11.42.28:744][672]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2020.01.15-11.42.28:744][672]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2020.01.15-11.42.28:744][672]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2020.01.15-11.42.28:744][672]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2020.01.15-11.42.28:744][672]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2020.01.15-11.42.28:798][672]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2020.01.15-11.42.28:798][672]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2020.01.15-11.42.28:798][672]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2020.01.15-11.42.28:798][672]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2020.01.15-11.42.28:798][672]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2020.01.15-11.42.28:798][672]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2020.01.15-11.42.28:798][672]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2020.01.15-11.42.28:798][672]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2020.01.15-11.42.28:798][672]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2020.01.15-11.42.28:798][672]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2020.01.15-11.42.28:803][672]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2020.01.15-11.42.28:878][672]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2020.01.15-11.42.28:882][672]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2020.01.15-11.42.28:882][672]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2020.01.15-11.42.28:882][672]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2020.01.15-11.42.28:882][672]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2020.01.15-11.42.28:882][672]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2020.01.15-11.42.28:882][672]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2020.01.15-11.42.28:882][672]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2020.01.15-11.42.28:882][672]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2020.01.15-11.42.28:882][672]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2020.01.15-11.42.28:882][672]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2020.01.15-11.42.28:882][672]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2020.01.15-11.42.28:882][672]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2020.01.15-11.42.28:882][672]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2020.01.15-11.42.28:882][672]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2020.01.15-11.42.28:882][672]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2020.01.15-11.42.28:883][672]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2020.01.15-11.42.28:984][672]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2020.01.15-11.42.29:223][672]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2020.01.15-11.42.29:223][672]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2020.01.15-11.42.29:223][672]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2020.01.15-11.42.29:223][672]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2020.01.15-11.42.29:223][672]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2020.01.15-11.42.29:224][672]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2020.01.15-11.42.29:224][672]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2020.01.15-11.42.29:224][672]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2020.01.15-11.42.29:224][672]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2020.01.15-11.42.29:225][672]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2020.01.15-11.42.29:225][672]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2020.01.15-11.42.29:226][672]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2020.01.15-11.42.29:226][672]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2020.01.15-11.42.29:226][672]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2020.01.15-11.42.29:226][672]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2020.01.15-11.42.29:853][672]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2020.01.15-11.42.29:853][672]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2020.01.15-11.42.29:853][672]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2020.01.15-11.42.29:855][672]LogModuleManager: Shutting down and abandoning module Media (233)
+[2020.01.15-11.42.29:863][672]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2020.01.15-11.42.29:864][672]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2020.01.15-11.42.29:864][672]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2020.01.15-11.42.29:864][672]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2020.01.15-11.42.29:864][672]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2020.01.15-11.42.29:864][672]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2020.01.15-11.42.29:864][672]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2020.01.15-11.42.29:864][672]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2020.01.15-11.42.29:864][672]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2020.01.15-11.42.29:864][672]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2020.01.15-11.42.29:864][672]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2020.01.15-11.42.29:864][672]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2020.01.15-11.42.29:864][672]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2020.01.15-11.42.29:864][672]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2020.01.15-11.42.29:864][672]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2020.01.15-11.42.29:866][672]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2020.01.15-11.42.29:867][672]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2020.01.15-11.42.29:867][672]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2020.01.15-11.42.29:867][672]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2020.01.15-11.42.29:867][672]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2020.01.15-11.42.29:869][672]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2020.01.15-11.42.29:869][672]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2020.01.15-11.42.29:869][672]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2020.01.15-11.42.29:869][672]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2020.01.15-11.42.29:869][672]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2020.01.15-11.42.29:869][672]LogModuleManager: Shutting down and abandoning module Core (178)
+[2020.01.15-11.42.29:869][672]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2020.01.15-11.42.29:869][672]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2020.01.15-11.42.29:869][672]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2020.01.15-11.42.29:869][672]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2020.01.15-11.42.29:869][672]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2020.01.15-11.42.29:869][672]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2020.01.15-11.42.29:869][672]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2020.01.15-11.42.29:869][672]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2020.01.15-11.42.29:869][672]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2020.01.15-11.42.29:870][672]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2020.01.15-11.42.29:870][672]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.01.15-11.42.29:937][672]LogDerivedDataCache: Shutdown
+[2020.01.15-11.42.29:937][672]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.01.15-11.42.29:937][672]LogXGEController: Cleaning working directory: C:/Users/Jack/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2020.01.15-11.42.29:938][672]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2020.01.15-11.42.29:939][672]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2020.01.15-11.42.29:940][672]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2020.01.15-11.42.29:940][672]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2020.01.15-11.42.29:940][672]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2020.01.15-11.42.29:940][672]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2020.01.15-11.42.29:940][672]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2020.01.15-11.42.29:940][672]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2020.01.15-11.42.29:940][672]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2020.01.15-11.42.29:940][672]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2020.01.15-11.42.29:940][672]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2020.01.15-11.42.29:940][672]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2020.01.15-11.42.29:940][672]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.01.15-11.42.29:940][672]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B315429C0-43B9-F0E0-BED0-CCB258BA8CB8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=e6a8c31a4679c77ae29a5ebbbf1b769e%7C082345f814704d779e38ddd8c2a8e96c%7C59041b8a-4563-42b5-82ef-57163b0ba057&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.01.15-11.42.29:953][672]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2020.01.15-11.42.29:954][672]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.01.15-11.42.29:954][672]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.01.15-11.42.29:954][672]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.01.15-11.42.29:954][672]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.01.15-11.42.29:954][672]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.01.15-11.42.29:954][672]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.01.15-11.42.29:954][672]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.01.15-11.42.29:955][672]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.01.15-11.42.29:955][672]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.01.15-11.42.29:955][672]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.01.15-11.42.29:955][672]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.01.15-11.42.29:955][672]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.01.15-11.42.29:955][672]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.01.15-11.42.29:955][672]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.01.15-11.42.29:955][672]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.01.15-11.42.29:955][672]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.01.15-11.42.29:955][672]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.01.15-11.42.29:955][672]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.01.15-11.42.29:959][672]LogExit: Exiting.
+[2020.01.15-11.42.29:982][672]Log file closed, 01/15/20 11:42:29

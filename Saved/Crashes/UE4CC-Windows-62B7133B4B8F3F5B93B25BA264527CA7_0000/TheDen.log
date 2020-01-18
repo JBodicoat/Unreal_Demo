@@ -1,0 +1,1267 @@
+﻿Log file open, 04/02/19 16:53:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TheDen
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-891795316) SRandInit(-891795316).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.181185
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.168s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-S0KGSDJ (192.168.0.23:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.008s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.02-15.53.08:464][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.02-15.53.08:465][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.02-15.53.08:500][  0]LogInit: Computer: DESKTOP-S0KGSDJ
+[2019.04.02-15.53.08:500][  0]LogInit: User: Jack
+[2019.04.02-15.53.08:501][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.02-15.53.08:501][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.04.02-15.53.08:501][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.04.02-15.53.08:501][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.02-15.53.08:501][  0]LogMemory: Process Physical Memory: 273.40 MB used, 273.40 MB peak
+[2019.04.02-15.53.08:501][  0]LogMemory: Process Virtual Memory: 269.91 MB used, 269.91 MB peak
+[2019.04.02-15.53.08:501][  0]LogMemory: Physical Memory: 5465.06 MB used,  2683.10 MB free, 8148.16 MB total
+[2019.04.02-15.53.08:501][  0]LogMemory: Virtual Memory: 4787.70 MB used,  2683.10 MB free, 134217728.00 MB total
+[2019.04.02-15.53.08:517][  0]LogInit: Using OS detected language (en-GB).
+[2019.04.02-15.53.08:517][  0]LogInit: Using OS detected locale (en-GB).
+[2019.04.02-15.53.08:520][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.04.02-15.53.08:975][  0]LogStreaming: Display: Took  0.458s to EndInitTextLocalization.
+[2019.04.02-15.53.08:976][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.02-15.53.09:025][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.02-15.53.09:025][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.02-15.53.09:214][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.02-15.53.09:284][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.04.02-15.53.09:284][  0]LogD3D11RHI:       2987/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.04.02-15.53.09:286][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.02-15.53.09:286][  0]LogD3D11RHI:       0/0/4074 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.02-15.53.09:286][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.02-15.53.09:292][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.02-15.53.09:292][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.02-15.53.09:292][  0]LogWindows: EnumDisplayDevices:
+[2019.04.02-15.53.09:292][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2019.04.02-15.53.09:292][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2019.04.02-15.53.09:293][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.02-15.53.09:293][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.04.02-15.53.09:293][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.04.02-15.53.09:293][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.04.02-15.53.09:293][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.04.02-15.53.09:293][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.04.02-15.53.09:293][  0]LogRHI: Texture pool is 2090 MB (70% of 2987 MB)
+[2019.04.02-15.53.09:338][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.04.02-15.53.09:339][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.04.02-15.53.09:339][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.02-15.53.09:382][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.02-15.53.09:476][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Intermediate/Shaders/WorkingDirectory/1916/).
+[2019.04.02-15.53.09:476][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jack/AppData/Local/Temp/UnrealShaderWorkingDir/7D2743374CD7D6E4F47414B80C1583F1/'.
+[2019.04.02-15.53.09:712][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.02-15.53.09:725][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.02-15.53.09:738][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.02-15.53.09:751][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.02-15.53.09:766][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.02-15.53.09:779][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.02-15.53.09:792][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.02-15.53.09:805][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.02-15.53.09:811][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.02-15.53.09:824][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.04.02-15.53.09:837][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.04.02-15.53.09:850][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.04.02-15.53.09:862][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.04.02-15.53.09:877][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.04.02-15.53.09:890][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.04.02-15.53.09:915][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.04.02-15.53.09:915][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.04.02-15.53.09:927][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.02-15.53.09:929][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.02-15.53.09:965][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.02-15.53.09:977][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.02-15.53.09:990][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.02-15.53.10:002][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.02-15.53.10:014][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.02-15.53.10:025][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.02-15.53.10:026][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.02-15.53.10:112][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.02-15.53.10:113][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.02-15.53.10:113][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.02-15.53.10:919][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.02-15.53.11:002][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/Jack/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.04.02-15.53.11:003][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jack/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.04.02-15.53.11:003][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.02-15.53.11:003][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.02-15.53.11:003][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.02-15.53.11:003][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.02-15.53.11:020][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.02-15.53.11:033][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jack/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.02-15.53.11:033][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.02-15.53.11:033][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.02-15.53.11:046][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.02-15.53.11:046][  0]LogSlate: Using Freetype 2.6.0
+[2019.04.02-15.53.11:047][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.02-15.53.11:047][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.02-15.53.11:178][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2019.04.02-15.53.11:521][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.02-15.53.11:668][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.02-15.53.11:670][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.02-15.53.11:670][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.02-15.53.11:670][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.02-15.53.11:670][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.04.02-15.53.11:670][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.04.02-15.53.11:699][  0]LogNetVersion: TheDen , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 147918773)
+[2019.04.02-15.53.12:453][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.251756 seconds
+[2019.04.02-15.53.12:459][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.04.02-15.53.12:459][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2019.04.02-15.53.12:459][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.02-15.53.14:237][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.02-15.53.14:266][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.02-15.53.14:612][  0]SourceControl: Source control is disabled
+[2019.04.02-15.53.14:612][  0]SourceControl: Source control is disabled
+[2019.04.02-15.53.14:631][  0]SourceControl: Source control is disabled
+[2019.04.02-15.53.14:650][  0]SourceControl: Source control is disabled
+[2019.04.02-15.53.15:109][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.02-15.53.15:273][  0]LogOcInput: OculusInput pre-init called
+[2019.04.02-15.53.15:396][  0]LogEngine: Initializing Engine...
+[2019.04.02-15.53.15:398][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.02-15.53.15:400][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.02-15.53.15:400][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.02-15.53.15:693][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.02-15.53.15:809][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-15.53.16:136][  0]LogInit: FAudioDevice initialized.
+[2019.04.02-15.53.16:235][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/Jack/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.04.02-15.53.16:256][  0]LogInit: Texture streaming: Enabled
+[2019.04.02-15.53.16:272][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.02-15.53.16:357][  0]LogInit: Transaction tracking system initialized
+[2019.04.02-15.53.16:375][  0]BlueprintLog: New page: Editor Load
+[2019.04.02-15.53.16:443][  0]LocalizationService: Localization service is disabled
+[2019.04.02-15.53.16:539][  0]LogConsoleResponse: Display: 
+[2019.04.02-15.53.16:881][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.02-15.53.16:881][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.02-15.53.16:881][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.02-15.53.16:881][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.02-15.53.16:881][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.02-15.53.17:213][  0]LogFileCache: Scanning file cache for directory 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/' took 0.06s
+[2019.04.02-15.53.17:214][  0]SourceControl: Source control is disabled
+[2019.04.02-15.53.17:214][  0]Cmd: MAP LOAD FILE="E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/Provision/StartingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.02-15.53.17:226][  0]LightingResults: New page: Lighting Build
+[2019.04.02-15.53.17:229][  0]MapCheck: New page: Map Check
+[2019.04.02-15.53.17:229][  0]LightingResults: New page: Lighting Build
+[2019.04.02-15.53.17:352][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.53.17:352][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/Provision/StartingMap.umap.
+[2019.04.02-15.53.17:362][  0]LoadErrors: Error: /Game/Provision/StartingMap : Can't find file for asset. /Game/Blueprints/Sphere_Blueprint
+[2019.04.02-15.53.17:408][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d30e42980, Size=4, Default__LD_playerController_C Function /Game/LevelDesign/LD_playerController.LD_playerController_C:ExecuteUbergraph_LD_playerController
+[2019.04.02-15.53.17:424][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d30e42980, Size=4
+[2019.04.02-15.53.17:424][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d30e42980, Size=4, Default__LD_playerController_C Function /Engine/Transient.REINST_LD_playerController_C_5:ExecuteUbergraph_LD_playerController
+[2019.04.02-15.53.17:482][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d30e428c0, Size=4, Default__LD_playerController_C Function /Game/LevelDesign/LD_playerController.LD_playerController_C:ExecuteUbergraph_LD_playerController
+[2019.04.02-15.53.17:714][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d30e54480, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2019.04.02-15.53.18:865][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d30e54480, Size=64
+[2019.04.02-15.53.18:865][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d310b2f40, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2019.04.02-15.53.18:929][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d3148f790, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2019.04.02-15.53.19:321][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d31433b00, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.04.02-15.53.19:335][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d31433b00, Size=296
+[2019.04.02-15.53.19:335][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d31433b00, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_8:ExecuteUbergraph_ThirdPersonCharacter
+[2019.04.02-15.53.19:390][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d31432340, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.04.02-15.53.19:454][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d31431f80, Size=264, Default__Doorset_DoorFrame_Blueprint_C Function /Game/Provision/Doorset_DoorFrame_Blueprint.Doorset_DoorFrame_Blueprint_C:ExecuteUbergraph_Doorset_DoorFrame_Blueprint
+[2019.04.02-15.53.19:471][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d31431f80, Size=264
+[2019.04.02-15.53.19:471][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d31431f80, Size=264, Default__Doorset_DoorFrame_Blueprint_C Function /Engine/Transient.REINST_Doorset_DoorFrame_Blueprint_C_10:ExecuteUbergraph_Doorset_DoorFrame_Blueprint
+[2019.04.02-15.53.19:479][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d31430cc0, Size=264, Default__Doorset_DoorFrame_Blueprint_C Function /Game/Provision/Doorset_DoorFrame_Blueprint.Doorset_DoorFrame_Blueprint_C:ExecuteUbergraph_Doorset_DoorFrame_Blueprint
+[2019.04.02-15.53.19:541][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d351f5360, Size=224, Default__Pickup_Blueprint_C Function /Game/Provision/Pickup_Blueprint.Pickup_Blueprint_C:ExecuteUbergraph_Pickup_Blueprint
+[2019.04.02-15.53.19:544][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d351f5360, Size=224
+[2019.04.02-15.53.19:544][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d351f5360, Size=224, Default__Pickup_Blueprint_C Function /Engine/Transient.REINST_Pickup_Blueprint_C_14:ExecuteUbergraph_Pickup_Blueprint
+[2019.04.02-15.53.19:547][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d35193ba0, Size=224, Default__Pickup_Blueprint_C Function /Game/Provision/Pickup_Blueprint.Pickup_Blueprint_C:ExecuteUbergraph_Pickup_Blueprint
+[2019.04.02-15.53.19:723][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.53.19:723][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/Provision/StartingMap.umap.
+[2019.04.02-15.53.19:723][  0]LoadErrors: Error: /Game/Provision/StartingMap : Can't find file for asset. /Game/Blueprints/Sphere_Blueprint
+[2019.04.02-15.53.19:764][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.53.19:765][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/Provision/StartingMap.umap.
+[2019.04.02-15.53.19:765][  0]LoadErrors: Error: /Game/Provision/StartingMap : Can't find file for asset. /Game/Blueprints/Sphere_Blueprint
+[2019.04.02-15.53.19:766][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.53.19:766][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/Provision/StartingMap.umap.
+[2019.04.02-15.53.19:766][  0]LoadErrors: Error: /Game/Provision/StartingMap : Can't find file for asset. /Game/Blueprints/Sphere_Blueprint
+[2019.04.02-15.53.19:767][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d351efaf0, Size=24, Default__StartingMap_C Function /Game/Provision/StartingMap.StartingMap_C:ExecuteUbergraph_StartingMap
+[2019.04.02-15.53.19:768][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.53.19:768][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading NULL.
+[2019.04.02-15.53.19:768][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.53.19:768][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading NULL.
+[2019.04.02-15.53.19:768][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.53.19:768][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading NULL.
+[2019.04.02-15.53.19:768][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.53.19:768][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading NULL.
+[2019.04.02-15.53.19:786][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d351efaf0, Size=24
+[2019.04.02-15.53.19:786][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d351efaf0, Size=24, Default__StartingMap_C Function /Engine/Transient.REINST_StartingMap_C_16:ExecuteUbergraph_StartingMap
+[2019.04.02-15.53.19:787][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d351ee698, Size=24, Default__StartingMap_C Function /Game/Provision/StartingMap.StartingMap_C:ExecuteUbergraph_StartingMap
+[2019.04.02-15.53.19:790][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.53.19:790][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading NULL.
+[2019.04.02-15.53.19:791][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.53.19:791][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading NULL.
+[2019.04.02-15.53.20:546][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [131.615707ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.04.02-15.53.20:726][  0]LogAIModule: Creating AISystem for world StartingMap
+[2019.04.02-15.53.20:868][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.02-15.53.20:922][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d30e42980, Size=4
+[2019.04.02-15.53.20:922][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d310b2f40, Size=64
+[2019.04.02-15.53.20:923][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d31433b00, Size=296
+[2019.04.02-15.53.20:923][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d31431f80, Size=264
+[2019.04.02-15.53.20:923][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d351f5360, Size=224
+[2019.04.02-15.53.20:923][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d351efaf0, Size=24
+[2019.04.02-15.53.20:942][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.02-15.53.20:990][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 48.326ms to complete.
+[2019.04.02-15.53.20:990][  0]LogFileHelpers: Loading map 'StartingMap' took 3.777
+[2019.04.02-15.53.22:588][  0]LogCollectionManager: Loaded 0 collections in 0.002262 seconds
+[2019.04.02-15.53.22:864][  0]LogFileCache: Scanning file cache for directory 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Collections/' took 0.01s
+[2019.04.02-15.53.22:864][  0]LogFileCache: Scanning file cache for directory 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/Developers/Jack/Collections/' took 0.01s
+[2019.04.02-15.53.22:864][  0]LogFileCache: Scanning file cache for directory 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/Collections/' took 0.01s
+[2019.04.02-15.53.22:864][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.02-15.53.22:880][  0]LogContentBrowser: Native class hierarchy populated in 0.0118 seconds. Added 2452 classes and 558 folders.
+[2019.04.02-15.53.23:131][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.02-15.53.27:304][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.02-15.53.27:444][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.02-15.53.28:328][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.02-15.53.28:331][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.02-15.53.28:518][  0]LogSlate: Took 0.023748 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.02-15.53.29:303][  0]LogRenderer: Reallocating scene render targets to support 1132x600 Format 10 NumSamples 1 (Frame:1).
+[2019.04.02-15.53.30:241][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.02-15.53.30:241][  0]LogLoad: (Engine Initialization) Total time: 24.47 seconds
+[2019.04.02-15.53.30:241][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.02-15.53.30:581][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent0': Sphere_Blueprint_C /Game/Provision/StartingMap.StartingMap:PersistentLevel.Sphere_Blueprint
+[2019.04.02-15.53.30:670][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.02-15.53.30:677][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.02-15.53.31:113][  1]LogFileCache: Retrieving MD5 hashes for directory 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/' took 0.52s
+[2019.04.02-15.53.31:802][  3]LogSlate: Took 0.023192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.02-15.53.38:785][ 24]LogAssetRegistry: Asset discovery search completed in 27.6284 seconds
+[2019.04.02-15.53.38:787][ 24]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.02-15.53.38:787][ 24]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2019.04.02-15.54.33:616][748]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.04.02-15.54.34:115][748]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d68c68738, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.04.02-15.54.34:115][748]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d68c68730, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.04.02-15.54.35:123][748]LogSlate: Took 0.016708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.02-15.54.35:744][749]LogSlate: Took 0.021430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.02-15.54.59:916][660]LogSlate: Window 'Message Log' being destroyed
+[2019.04.02-15.54.59:920][660]LogSlate: Window 'Message Log' being destroyed
+[2019.04.02-15.55.02:767][822]LogSlate: Window 'Wooden_Door_Frame' being destroyed
+[2019.04.02-15.55.02:771][822]LogSlate: Window 'Wooden_Door_Frame' being destroyed
+[2019.04.02-15.55.12:023][343]Cmd: MAP LOAD FILE="E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/Provision/StartingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.02-15.55.12:023][343]LightingResults: New page: Lighting Build
+[2019.04.02-15.55.12:024][343]LoadErrors: New page: Loading map: StartingMap.umap
+[2019.04.02-15.55.12:024][343]MapCheck: New page: Map Check
+[2019.04.02-15.55.12:024][343]LightingResults: New page: Lighting Build
+[2019.04.02-15.55.12:061][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d351ee698, Size=24
+[2019.04.02-15.55.12:064][343]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.55.12:064][343]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/Provision/StartingMap.umap.
+[2019.04.02-15.55.12:064][343]LoadErrors: Error: /Game/Provision/StartingMap : Can't find file for asset. /Game/Blueprints/Sphere_Blueprint
+[2019.04.02-15.55.12:068][343]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.55.12:068][343]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/Provision/StartingMap.umap.
+[2019.04.02-15.55.12:069][343]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.55.12:069][343]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/Provision/StartingMap.umap.
+[2019.04.02-15.55.12:070][343]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.55.12:070][343]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/Provision/StartingMap.umap.
+[2019.04.02-15.55.12:071][343]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d7a904e80, Size=24, Default__StartingMap_C Function /Game/Provision/StartingMap.StartingMap_C:ExecuteUbergraph_StartingMap
+[2019.04.02-15.55.12:071][343]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.55.12:071][343]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading NULL.
+[2019.04.02-15.55.12:071][343]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.55.12:072][343]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading NULL.
+[2019.04.02-15.55.12:072][343]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.55.12:072][343]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading NULL.
+[2019.04.02-15.55.12:072][343]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.55.12:072][343]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading NULL.
+[2019.04.02-15.55.12:073][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d7a904e80, Size=24
+[2019.04.02-15.55.12:073][343]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d7a904e80, Size=24, Default__StartingMap_C Function /Engine/Transient.REINST_StartingMap_C_32:ExecuteUbergraph_StartingMap
+[2019.04.02-15.55.12:075][343]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d7a905228, Size=24, Default__StartingMap_C Function /Game/Provision/StartingMap.StartingMap_C:ExecuteUbergraph_StartingMap
+[2019.04.02-15.55.12:078][343]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.55.12:078][343]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading NULL.
+[2019.04.02-15.55.12:078][343]LogLinker: Warning: Can't find file '/Game/Blueprints/Sphere_Blueprint'
+[2019.04.02-15.55.12:078][343]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Sphere_Blueprint' while loading NULL.
+[2019.04.02-15.55.12:091][343]LogAIModule: Creating AISystem for world StartingMap
+[2019.04.02-15.55.12:111][343]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.02-15.55.12:149][343]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d7a904e80, Size=24
+[2019.04.02-15.55.12:219][343]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.02-15.55.12:274][343]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.419ms to complete.
+[2019.04.02-15.55.12:275][343]LogFileHelpers: Loading map 'StartingMap' took 0.264
+[2019.04.02-15.55.12:284][343]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMeshComponent0': Sphere_Blueprint_C /Game/Provision/StartingMap.StartingMap:PersistentLevel.Sphere_Blueprint
+[2019.04.02-15.55.16:695][606]LogSlate: Window 'Message Log' being destroyed
+[2019.04.02-15.55.16:702][606]LogSlate: Window 'Message Log' being destroyed
+[2019.04.02-15.55.30:717][371]LogSlate: Window 'StartingMap - Level Blueprint Editor' being destroyed
+[2019.04.02-15.55.39:653][848]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.04.02-15.55.39:657][848]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2019.04.02-15.55.49:406][418]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d7ee45ec0, Size=408, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-15.55.49:409][418]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d7ee45ec0, Size=408
+[2019.04.02-15.55.49:409][418]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d7ee45ec0, Size=408, Default__Game_Level_C Function /Engine/Transient.REINST_Game_Level_C_36:ExecuteUbergraph_Game_Level
+[2019.04.02-15.55.49:412][418]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d7ee465c0, Size=408, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-15.55.49:591][418]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-15.55.49:619][418]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d7ee45ec0, Size=408
+[2019.04.02-15.55.49:623][418]Cmd: MAP LOAD FILE="E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/LevelDesign/Game_Level/Game_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.02-15.55.49:623][418]LightingResults: New page: Lighting Build
+[2019.04.02-15.55.49:624][418]LoadErrors: New page: Loading map: Game_Level.umap
+[2019.04.02-15.55.49:625][418]MapCheck: New page: Map Check
+[2019.04.02-15.55.49:625][418]LightingResults: New page: Lighting Build
+[2019.04.02-15.55.49:644][418]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d7a905228, Size=24
+[2019.04.02-15.55.49:651][418]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.02-15.55.49:721][418]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.02-15.55.49:774][418]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.952ms to complete.
+[2019.04.02-15.55.49:774][418]LogFileHelpers: Loading map 'Game_Level' took 0.152
+[2019.04.02-15.55.58:401][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-15.55.58:854][953]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-15.55.58:888][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-15.55.59:011][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-15.55.59:052][953]PIE: New page: PIE session: Game_Level (2 Apr 2019 17:55:59)
+[2019.04.02-15.55.59:052][953]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-15.55.59:084][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031836s)
+[2019.04.02-15.55.59:086][953]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-15.55.59:086][953]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2019.04.02-15.55.59:086][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.033493s)
+[2019.04.02-15.55.59:121][953]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-15.55.59:185][953]LogInit: FAudioDevice initialized.
+[2019.04.02-15.55.59:230][953]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-15.55.59:291][953]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-16.55.59
+[2019.04.02-15.55.59:310][953]LogWorld: Bringing up level for play took: 0.018773
+[2019.04.02-15.55.59:384][953]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2019.04.02-15.55.59:448][953]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level -0.234
+[2019.04.02-15.55.59:448][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-15.56.16:069][943]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-15.56.16:220][943]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-15.56.18:761][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-15.58.31:711][782]LogSlate: Took 0.024142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.02-15.59.48:887][343]BlueprintLog: New page: Compile Wooden_Door_Frame
+[2019.04.02-15.59.58:383][843]BlueprintLog: New page: Compile Wooden_Door_Frame
+[2019.04.02-16.00.40:483][285]BlueprintLog: New page: Compile Wooden_Door_Frame
+[2019.04.02-16.00.43:918][411]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.00.43:947][411]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.00.43:948][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.00.43:948][411]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:00:43)
+[2019.04.02-16.00.43:948][411]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.00.43:950][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003243s)
+[2019.04.02-16.00.43:951][411]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.00.43:951][411]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2019.04.02-16.00.43:951][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.004290s)
+[2019.04.02-16.00.43:984][411]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.00.44:048][411]LogInit: FAudioDevice initialized.
+[2019.04.02-16.00.44:088][411]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.00.44:089][411]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.00.44
+[2019.04.02-16.00.44:090][411]LogWorld: Bringing up level for play took: 0.001053
+[2019.04.02-16.00.44:093][411]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level 0.41
+[2019.04.02-16.00.44:093][411]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.01.26:086][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.01.26:126][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.01.30:296][982]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.02-16.01.31:732][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.02-16.02.02:629][817]BlueprintLog: New page: Compile Game_Level
+[2019.04.02-16.02.02:644][817]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d7ee465c0, Size=408
+[2019.04.02-16.02.02:644][817]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d947002c0, Size=408, Default__Game_Level_C Function /Engine/Transient.REINST_Game_Level_C_72:ExecuteUbergraph_Game_Level
+[2019.04.02-16.02.02:647][817]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d7ee44f00, Size=408, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.02.05:255][924]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.02.05:290][924]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.02.05:290][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.02.05:290][924]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:02:05)
+[2019.04.02-16.02.05:290][924]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.02.05:292][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001963s)
+[2019.04.02-16.02.05:293][924]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.02.05:293][924]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2019.04.02-16.02.05:293][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.002692s)
+[2019.04.02-16.02.05:337][924]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.02.05:402][924]LogInit: FAudioDevice initialized.
+[2019.04.02-16.02.05:437][924]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.02.05:439][924]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.02.05
+[2019.04.02-16.02.05:439][924]LogWorld: Bringing up level for play took: 0.001023
+[2019.04.02-16.02.05:441][924]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level -0.241
+[2019.04.02-16.02.05:442][924]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.02.14:573][461]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.02.14:618][461]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.02.15:643][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.02.15:743][523]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.02.15:767][523]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.02.15:768][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.02.15:768][523]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:02:15)
+[2019.04.02-16.02.15:768][523]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.02.15:770][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001976s)
+[2019.04.02-16.02.15:770][523]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.02.15:770][523]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2019.04.02-16.02.15:770][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.002690s)
+[2019.04.02-16.02.15:805][523]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.02.15:865][523]LogInit: FAudioDevice initialized.
+[2019.04.02-16.02.15:897][523]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.02.15:899][523]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.02.15
+[2019.04.02-16.02.15:899][523]LogWorld: Bringing up level for play took: 0.000949
+[2019.04.02-16.02.15:901][523]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level 0.218
+[2019.04.02-16.02.15:901][523]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.02.19:200][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.02.19:244][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.02.28:433][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.02.28:884][ 73]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d7ee44f00, Size=408
+[2019.04.02-16.02.28:884][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d73cefac0, Size=408, Game_Level_C_0 Function /Engine/Transient.REINST_Game_Level_C_76:ExecuteUbergraph_Game_Level
+[2019.04.02-16.02.28:887][ 73]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d7ee44480, Size=408, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.02.29:063][ 73]LogSavePackage: Save=192.62ms
+[2019.04.02-16.02.29:063][ 73]LogSavePackage: Moving 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Game_LevelFE9EA2884D09D6B18BF32793D73317A2.tmp' to 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/LevelDesign/Game_Level/Game_Level.umap'
+[2019.04.02-16.02.29:094][ 73]LogSavePackage: Display: Finished SavePackage E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/LevelDesign/Game_Level/Game_Level.umap
+[2019.04.02-16.02.29:146][ 73]LogFileHelpers: Saving map 'Game_Level' took 0.444
+[2019.04.02-16.02.35:943][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.03.12:650][574]LogEditorTransaction: Undo Create Pin Link
+[2019.04.02-16.03.13:017][588]LogEditorTransaction: Undo Create Pin Link
+[2019.04.02-16.03.14:499][676]LogEditorTransaction: Undo Move Node
+[2019.04.02-16.03.14:501][676]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da1bd3c18, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.03.15:073][708]LogEditorTransaction: Undo Delete current selection
+[2019.04.02-16.03.15:074][708]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da1bd3c18, Size=4
+[2019.04.02-16.03.15:074][708]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d90cac720, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_80:ExecuteUbergraph_Game_Level
+[2019.04.02-16.03.15:075][708]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d90cad2d0, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.03.15:773][747]LogEditorTransaction: Undo Break Pin Links
+[2019.04.02-16.03.15:773][747]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d90cad2d0, Size=4
+[2019.04.02-16.03.15:773][747]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da1bd16a8, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_82:ExecuteUbergraph_Game_Level
+[2019.04.02-16.03.15:775][747]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da1bd3c18, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.03.16:360][779]LogEditorTransaction: Undo Create Pin Link
+[2019.04.02-16.03.29:394][551]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da1bd16a8, Size=4
+[2019.04.02-16.03.29:394][551]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d90cac720, Size=4
+[2019.04.02-16.03.29:394][551]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d73cefac0, Size=408
+[2019.04.02-16.03.29:394][551]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d947002c0, Size=408
+[2019.04.02-16.03.29:405][551]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da1bd3c18, Size=4
+[2019.04.02-16.03.29:405][551]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d94551400, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_84:ExecuteUbergraph_Game_Level
+[2019.04.02-16.03.29:412][551]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d7ee44480, Size=408
+[2019.04.02-16.03.29:412][551]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d73cefac0, Size=408, Default__Game_Level_C Function /Engine/Transient.REINST_Game_Level_C_86:ExecuteUbergraph_Game_Level
+[2019.04.02-16.03.29:416][551]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d73cec9c0, Size=408, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.03.29:572][551]LogSavePackage: Save=173.68ms
+[2019.04.02-16.03.29:572][551]LogSavePackage: Moving 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Game_Level644AAB9B41576238DA50F681FF6C4CCF.tmp' to 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/LevelDesign/Game_Level/Game_Level.umap'
+[2019.04.02-16.03.29:580][551]LogSavePackage: Display: Finished SavePackage E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/LevelDesign/Game_Level/Game_Level.umap
+[2019.04.02-16.03.29:643][551]LogFileHelpers: Saving map 'Game_Level' took 0.339
+[2019.04.02-16.03.34:122][779]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.03.34:189][779]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.03.34:189][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.03.34:189][779]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:03:34)
+[2019.04.02-16.03.34:189][779]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.03.34:191][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002066s)
+[2019.04.02-16.03.34:192][779]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.03.34:192][779]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2019.04.02-16.03.34:192][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.002816s)
+[2019.04.02-16.03.34:216][779]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d94551400, Size=4
+[2019.04.02-16.03.34:217][779]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d73cefac0, Size=408
+[2019.04.02-16.03.34:228][779]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.03.34:293][779]LogInit: FAudioDevice initialized.
+[2019.04.02-16.03.34:330][779]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.03.34:332][779]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.03.34
+[2019.04.02-16.03.34:332][779]LogWorld: Bringing up level for play took: 0.001152
+[2019.04.02-16.03.34:335][779]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level 0.652
+[2019.04.02-16.03.34:335][779]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.03.45:039][419]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.03.45:084][419]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.03.46:548][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.05.56:058][113]LogEditorTransaction: Undo Move Nodes
+[2019.04.02-16.06.45:868][ 72]BlueprintLog: New page: Compile Wooden_Door_Frame
+[2019.04.02-16.06.46:753][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelDesign/Wooden_Door_Frame" FILE="E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/LevelDesign/Wooden_Door_Frame.uasset" SILENT=true
+[2019.04.02-16.06.47:245][ 99]LogSavePackage: Save=454.40ms
+[2019.04.02-16.06.47:245][ 99]LogSavePackage: Moving 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Wooden_Door_FrameE8B1AC9D491627837FDC3E88D81FD111.tmp' to 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/LevelDesign/Wooden_Door_Frame.uasset'
+[2019.04.02-16.06.47:255][ 99]LogSavePackage: Display: Finished SavePackage E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/LevelDesign/Wooden_Door_Frame.uasset
+[2019.04.02-16.06.50:891][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.06.51:812][258]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.06.51:851][258]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.06.51:851][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.06.51:851][258]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:06:51)
+[2019.04.02-16.06.51:851][258]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.06.51:854][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002421s)
+[2019.04.02-16.06.51:854][258]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.06.51:854][258]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2019.04.02-16.06.51:854][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.003334s)
+[2019.04.02-16.06.51:890][258]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.06.51:955][258]LogInit: FAudioDevice initialized.
+[2019.04.02-16.06.51:991][258]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.06.51:993][258]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.06.51
+[2019.04.02-16.06.51:993][258]LogWorld: Bringing up level for play took: 0.000961
+[2019.04.02-16.06.51:996][258]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level 0.313
+[2019.04.02-16.06.51:996][258]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.07.11:600][427]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.07.11:640][427]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.07.12:436][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.07.47:855][539]BlueprintLog: New page: Compile Wooden_Door_Frame
+[2019.04.02-16.07.51:000][704]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.07.51:039][704]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.07.51:039][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.07.51:039][704]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:07:51)
+[2019.04.02-16.07.51:040][704]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.07.51:042][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002405s)
+[2019.04.02-16.07.51:043][704]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.07.51:043][704]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2019.04.02-16.07.51:043][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.003350s)
+[2019.04.02-16.07.51:077][704]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.07.51:143][704]LogInit: FAudioDevice initialized.
+[2019.04.02-16.07.51:180][704]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.07.51:182][704]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.07.51
+[2019.04.02-16.07.51:182][704]LogWorld: Bringing up level for play took: 0.001064
+[2019.04.02-16.07.51:185][704]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level -0.498
+[2019.04.02-16.07.51:185][704]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.07.58:720][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.02-16.07.59:600][166]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.07.59:637][166]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.08.04:593][455]BlueprintLog: New page: Compile Wooden_Door_Frame
+[2019.04.02-16.08.08:433][618]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.08.08:464][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.08.08:464][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.08.08:465][618]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:08:08)
+[2019.04.02-16.08.08:465][618]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.08.08:468][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002789s)
+[2019.04.02-16.08.08:468][618]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.08.08:468][618]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2019.04.02-16.08.08:468][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.003528s)
+[2019.04.02-16.08.08:503][618]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.08.08:566][618]LogInit: FAudioDevice initialized.
+[2019.04.02-16.08.08:601][618]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.08.08:603][618]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.08.08
+[2019.04.02-16.08.08:603][618]LogWorld: Bringing up level for play took: 0.000986
+[2019.04.02-16.08.08:606][618]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level 0.923
+[2019.04.02-16.08.08:606][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.08.23:523][507]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.08.23:567][507]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.08.25:021][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.09.51:859][703]BlueprintLog: New page: Compile Game_Level
+[2019.04.02-16.09.51:874][703]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d73cec9c0, Size=408
+[2019.04.02-16.09.51:874][703]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024db30e4d40, Size=408, Default__Game_Level_C Function /Engine/Transient.REINST_Game_Level_C_110:ExecuteUbergraph_Game_Level
+[2019.04.02-16.09.51:877][703]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024db30e6240, Size=424, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.09.57:006][943]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.09.57:036][943]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.09.57:036][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.09.57:036][943]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:09:57)
+[2019.04.02-16.09.57:036][943]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.09.57:039][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002236s)
+[2019.04.02-16.09.57:039][943]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.09.57:039][943]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2019.04.02-16.09.57:039][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.003015s)
+[2019.04.02-16.09.57:064][943]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024db30e4d40, Size=408
+[2019.04.02-16.09.57:076][943]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.09.57:150][943]LogInit: FAudioDevice initialized.
+[2019.04.02-16.09.57:182][943]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.09.57:184][943]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.09.57
+[2019.04.02-16.09.57:184][943]LogWorld: Bringing up level for play took: 0.000896
+[2019.04.02-16.09.57:186][943]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level -0.496
+[2019.04.02-16.09.57:187][943]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.10.03:795][334]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.10.03:846][334]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.10.05:613][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.10.31:256][964]BlueprintLog: New page: Compile Game_Level
+[2019.04.02-16.10.31:270][964]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024db30e6240, Size=424
+[2019.04.02-16.10.31:270][964]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024db52bfac0, Size=424, Default__Game_Level_C Function /Engine/Transient.REINST_Game_Level_C_114:ExecuteUbergraph_Game_Level
+[2019.04.02-16.10.31:273][964]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024db52bee80, Size=408, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.10.35:381][163]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.10.35:415][163]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.10.35:415][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.10.35:415][163]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:10:35)
+[2019.04.02-16.10.35:415][163]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.10.35:418][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003005s)
+[2019.04.02-16.10.35:419][163]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.10.35:419][163]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2019.04.02-16.10.35:419][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.003891s)
+[2019.04.02-16.10.35:443][163]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024db52bfac0, Size=424
+[2019.04.02-16.10.35:456][163]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.10.35:517][163]LogInit: FAudioDevice initialized.
+[2019.04.02-16.10.35:552][163]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.10.35:554][163]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.10.35
+[2019.04.02-16.10.35:554][163]LogWorld: Bringing up level for play took: 0.000815
+[2019.04.02-16.10.35:557][163]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level -0.126
+[2019.04.02-16.10.35:557][163]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.10.52:286][162]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.10.52:332][162]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.10.53:294][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.10.53:395][221]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.10.53:422][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.10.53:422][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.10.53:422][221]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:10:53)
+[2019.04.02-16.10.53:422][221]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.10.53:424][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001933s)
+[2019.04.02-16.10.53:425][221]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.10.53:425][221]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2019.04.02-16.10.53:425][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.002858s)
+[2019.04.02-16.10.53:459][221]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.10.53:525][221]LogInit: FAudioDevice initialized.
+[2019.04.02-16.10.53:560][221]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.10.53:562][221]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.10.53
+[2019.04.02-16.10.53:562][221]LogWorld: Bringing up level for play took: 0.000968
+[2019.04.02-16.10.53:565][221]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level -0.118
+[2019.04.02-16.10.53:565][221]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.11.09:819][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.11.09:863][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.11.11:204][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.13.32:650][265]LogEditorTransaction: Undo Create Pin Link
+[2019.04.02-16.13.32:652][265]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da1bd2a18, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.35:042][404]LogEditorTransaction: Undo Create Pin Link
+[2019.04.02-16.13.35:043][404]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da1bd2a18, Size=4
+[2019.04.02-16.13.35:043][404]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da4fffe38, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_118:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.35:044][404]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da4ffea38, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.38:893][632]LogEditorTransaction: Undo Move Node
+[2019.04.02-16.13.38:894][632]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da4ffea38, Size=4
+[2019.04.02-16.13.38:894][632]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da33c0ca8, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_120:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.38:896][632]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da33c1b68, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.39:295][652]LogEditorTransaction: Undo Move Node
+[2019.04.02-16.13.39:296][652]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da33c1b68, Size=4
+[2019.04.02-16.13.39:296][652]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da33c1b68, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_122:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.39:297][652]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da33c1f98, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.39:926][687]LogEditorTransaction: Undo Break Pin Links
+[2019.04.02-16.13.39:927][687]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da33c1f98, Size=4
+[2019.04.02-16.13.39:927][687]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da33c1f98, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_124:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.39:929][687]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da33c1c38, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.40:267][704]LogEditorTransaction: Undo Create Pin Link
+[2019.04.02-16.13.40:267][704]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da33c1c38, Size=4
+[2019.04.02-16.13.40:267][704]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da33c1c38, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_126:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.40:269][704]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da33c1a20, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.40:524][717]LogEditorTransaction: Undo Add Node
+[2019.04.02-16.13.40:525][717]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da33c1a20, Size=4
+[2019.04.02-16.13.40:525][717]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da33c1a20, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_128:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.40:527][717]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da33c38f8, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.43:812][911]LogEditorTransaction: Undo Move Node
+[2019.04.02-16.13.43:812][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da33c38f8, Size=4
+[2019.04.02-16.13.43:813][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da3df20f0, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_130:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.43:814][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da3df1f20, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.45:999][ 38]LogEditorTransaction: Undo Split Struct Pin
+[2019.04.02-16.13.46:000][ 38]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da3df1f20, Size=4
+[2019.04.02-16.13.46:000][ 38]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da59f6158, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_132:ExecuteUbergraph_Game_Level
+[2019.04.02-16.13.46:001][ 38]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da59f5600, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.14:074][224]BlueprintLog: New page: Compile Game_Level
+[2019.04.02-16.15.14:079][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da59f5600, Size=4
+[2019.04.02-16.15.14:079][224]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d94550ed0, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_134:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.14:085][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024db52bee80, Size=408
+[2019.04.02-16.15.14:085][224]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024db964cb80, Size=408, Default__Game_Level_C Function /Engine/Transient.REINST_Game_Level_C_136:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.14:087][224]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da2dc2340, Size=264, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.14:187][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d94550ed0, Size=4
+[2019.04.02-16.15.14:187][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da59f6158, Size=4
+[2019.04.02-16.15.14:187][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da3df20f0, Size=4
+[2019.04.02-16.15.14:187][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da33c1a20, Size=4
+[2019.04.02-16.15.14:188][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da33c1c38, Size=4
+[2019.04.02-16.15.14:188][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da33c1f98, Size=4
+[2019.04.02-16.15.14:188][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da33c1b68, Size=4
+[2019.04.02-16.15.14:188][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da33c0ca8, Size=4
+[2019.04.02-16.15.14:188][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da4fffe38, Size=4
+[2019.04.02-16.15.17:766][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Plain)
+[2019.04.02-16.15.19:190][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.15.19:274][428]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.15.19:299][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.15.19:299][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.15.19:299][428]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:15:19)
+[2019.04.02-16.15.19:299][428]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.15.19:300][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001916s)
+[2019.04.02-16.15.19:301][428]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.15.19:301][428]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2019.04.02-16.15.19:301][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.002744s)
+[2019.04.02-16.15.19:322][428]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024db964cb80, Size=408
+[2019.04.02-16.15.19:337][428]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.15.19:399][428]LogInit: FAudioDevice initialized.
+[2019.04.02-16.15.19:430][428]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.15.19:430][428]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.15.19
+[2019.04.02-16.15.19:433][428]LogWorld: Bringing up level for play took: 0.000869
+[2019.04.02-16.15.19:434][428]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level -0.248
+[2019.04.02-16.15.19:434][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.15.22:550][614]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.15.22:595][614]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.15.23:489][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.15.33:163][241]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.02-16.15.33:377][248]LogEditorTransaction: Undo Move Node
+[2019.04.02-16.15.33:379][248]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8672160, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.33:547][256]LogEditorTransaction: Undo Move Nodes
+[2019.04.02-16.15.33:548][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8672160, Size=4
+[2019.04.02-16.15.33:548][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8672160, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_140:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.33:550][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da86717a8, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.33:720][263]LogEditorTransaction: Undo Move Node
+[2019.04.02-16.15.33:720][263]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da86717a8, Size=4
+[2019.04.02-16.15.33:720][263]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d90cac088, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_142:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.33:721][263]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d90cac3a8, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.33:938][274]LogEditorTransaction: Undo Create Pin Link
+[2019.04.02-16.15.33:938][274]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d90cac3a8, Size=4
+[2019.04.02-16.15.33:938][274]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8671950, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_144:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.33:939][274]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8671e10, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.34:190][287]LogEditorTransaction: Undo Move Nodes
+[2019.04.02-16.15.34:191][287]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8671e10, Size=4
+[2019.04.02-16.15.34:191][287]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8671e10, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_146:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.34:192][287]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8670878, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.34:506][304]LogEditorTransaction: Undo Delete current selection
+[2019.04.02-16.15.34:507][304]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8670878, Size=4
+[2019.04.02-16.15.34:507][304]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8670878, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_148:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.34:508][304]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da86722c0, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.34:778][318]LogEditorTransaction: Undo Delete current selection
+[2019.04.02-16.15.34:779][318]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da86722c0, Size=4
+[2019.04.02-16.15.34:779][318]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da86722c0, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_150:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.34:781][318]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8671b48, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.37:706][491]LogEditorTransaction: Redo Delete current selection
+[2019.04.02-16.15.37:707][491]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8671b48, Size=4
+[2019.04.02-16.15.37:707][491]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8671b48, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_152:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.37:708][491]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8672a38, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.37:911][501]LogEditorTransaction: Redo Delete current selection
+[2019.04.02-16.15.37:911][501]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8672a38, Size=4
+[2019.04.02-16.15.37:911][501]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8672a38, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_154:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.37:912][501]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8673280, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.38:092][510]LogEditorTransaction: Redo Move Nodes
+[2019.04.02-16.15.38:093][510]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8673280, Size=4
+[2019.04.02-16.15.38:093][510]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8673280, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_156:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.38:094][510]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8670910, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.38:242][517]LogEditorTransaction: Redo Create Pin Link
+[2019.04.02-16.15.38:243][517]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8670910, Size=4
+[2019.04.02-16.15.38:243][517]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8670910, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_158:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.38:244][517]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8672fa0, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.43:772][845]BlueprintLog: New page: Compile Game_Level
+[2019.04.02-16.15.43:777][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8672fa0, Size=4
+[2019.04.02-16.15.43:777][845]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da8672fa0, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_160:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.43:785][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da2dc2340, Size=264
+[2019.04.02-16.15.43:785][845]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da27d65c0, Size=264, Default__Game_Level_C Function /Engine/Transient.REINST_Game_Level_C_162:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.43:788][845]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da981c2c0, Size=416, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.15.43:888][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d90cac088, Size=4
+[2019.04.02-16.15.43:888][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8672fa0, Size=4
+[2019.04.02-16.15.43:888][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8670910, Size=4
+[2019.04.02-16.15.43:889][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8673280, Size=4
+[2019.04.02-16.15.43:889][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8672a38, Size=4
+[2019.04.02-16.15.43:889][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8671b48, Size=4
+[2019.04.02-16.15.43:889][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da86722c0, Size=4
+[2019.04.02-16.15.43:889][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8670878, Size=4
+[2019.04.02-16.15.43:889][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8671e10, Size=4
+[2019.04.02-16.15.43:889][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8671950, Size=4
+[2019.04.02-16.15.43:889][845]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da8672160, Size=4
+[2019.04.02-16.15.47:231][  4]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.15.47:266][  4]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.15.47:266][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.15.47:266][  4]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:15:47)
+[2019.04.02-16.15.47:267][  4]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.15.47:268][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001802s)
+[2019.04.02-16.15.47:269][  4]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.15.47:269][  4]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2019.04.02-16.15.47:269][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.002533s)
+[2019.04.02-16.15.47:291][  4]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da27d65c0, Size=264
+[2019.04.02-16.15.47:302][  4]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.15.47:362][  4]LogInit: FAudioDevice initialized.
+[2019.04.02-16.15.47:400][  4]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.15.47:402][  4]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.15.47
+[2019.04.02-16.15.47:402][  4]LogWorld: Bringing up level for play took: 0.000849
+[2019.04.02-16.15.47:404][  4]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level -0.278
+[2019.04.02-16.15.47:404][  4]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.15.53:196][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.15.53:238][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.15.55:150][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.02-16.16.46:947][477]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da981c2c0, Size=416
+[2019.04.02-16.16.46:947][477]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024dba49d0c0, Size=416, Default__Game_Level_C Function /Engine/Transient.REINST_Game_Level_C_166:ExecuteUbergraph_Game_Level
+[2019.04.02-16.16.46:950][477]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024dba49cd40, Size=416, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.16.47:090][477]LogSavePackage: Save=155.70ms
+[2019.04.02-16.16.47:091][477]LogSavePackage: Moving 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Game_Level9CFCE50D45231C873A98AAA0232A06CF.tmp' to 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/LevelDesign/Game_Level/Game_Level.umap'
+[2019.04.02-16.16.47:100][477]LogSavePackage: Display: Finished SavePackage E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Content/LevelDesign/Game_Level/Game_Level.umap
+[2019.04.02-16.16.47:148][477]LogFileHelpers: Saving map 'Game_Level' took 0.331
+[2019.04.02-16.16.48:177][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.17.05:979][561]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2019.04.02-16.17.06:153][562]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.04.02-16.17.06:154][562]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.04.02-16.17.06:154][562]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.02-16.17.06:159][562]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2019.04.02-16.17.06:206][563]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2019.04.02-16.17.06:246][564]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2019.04.02-16.17.08:943][625]LogShaderCompilers: Display: Shaders left to compile 146
+[2019.04.02-16.17.08:965][626]LogShaderCompilers: Display: Shaders left to compile 136
+[2019.04.02-16.17.09:187][627]LogShaderCompilers: Display: Shaders left to compile 126
+[2019.04.02-16.17.10:249][629]LogShaderCompilers: Display: Shaders left to compile 116
+[2019.04.02-16.17.10:564][640]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.04.02-16.17.11:665][659]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.04.02-16.17.11:795][661]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.04.02-16.17.13:359][671]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.04.02-16.17.13:359][671]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.04.02-16.17.13:359][671]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.04.02-16.17.14:209][672]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.04.02-16.17.14:587][673]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.04.02-16.17.15:827][676]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.02-16.17.15:827][676]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.02-16.17.16:034][677]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.02-16.18.02:153][248]LogRenderer: Reallocating scene render targets to support 1132x688 Format 10 NumSamples 1 (Frame:1).
+[2019.04.02-16.18.18:841][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.18.41:745][539]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ddad964f0, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.04.02-16.18.46:105][762]LogRenderer: Reallocating scene render targets to support 1132x940 Format 10 NumSamples 1 (Frame:2531).
+[2019.04.02-16.20.37:279][192]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ddad964f0, Size=4
+[2019.04.02-16.20.37:279][192]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024de26d2218, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_170:ExecuteUbergraph_ThirdPersonCharacter
+[2019.04.02-16.20.37:283][192]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024de26d12c8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.04.02-16.21.24:780][856]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.21.24:826][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.21.24:826][856]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.02-16.21.24:835][856]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024de26d12c8, Size=4
+[2019.04.02-16.21.24:835][856]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024de26d12c8, Size=4, Default__SKEL_ThirdPersonCharacter_C Function /Engine/Transient.REINST_SKEL_ThirdPersonCharacter_C_175:ExecuteUbergraph_ThirdPersonCharacter
+[2019.04.02-16.21.24:871][856]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2019.04.02-16.21.24:880][856]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d31432340, Size=296
+[2019.04.02-16.21.24:880][856]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024de8389bc0, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_180:ExecuteUbergraph_ThirdPersonCharacter
+[2019.04.02-16.21.24:885][856]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024de838bec0, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.04.02-16.21.25:148][856]LogPlayLevel: [PlayLevel] Compiling Game_Level before play...
+[2019.04.02-16.21.25:153][856]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024dba49cd40, Size=416
+[2019.04.02-16.21.25:153][856]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024db0f0c800, Size=416, Game_Level_C_1 Function /Engine/Transient.REINST_Game_Level_C_184:ExecuteUbergraph_Game_Level
+[2019.04.02-16.21.25:156][856]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024db0f0cb80, Size=400, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.21.25:263][856]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024dba49d0c0, Size=416
+[2019.04.02-16.21.25:263][856]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024de26d12c8, Size=4
+[2019.04.02-16.21.25:265][856]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024db0f0c800, Size=416
+[2019.04.02-16.21.25:267][856]LogPlayLevel: PlayLevel: Blueprint regeneration took 440 ms (2 blueprints)
+[2019.04.02-16.21.25:267][856]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:21:25)
+[2019.04.02-16.21.25:267][856]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.21.25:269][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002012s)
+[2019.04.02-16.21.25:270][856]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.21.25:270][856]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2019.04.02-16.21.25:270][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.002935s)
+[2019.04.02-16.21.25:306][856]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.21.25:367][856]LogInit: FAudioDevice initialized.
+[2019.04.02-16.21.25:405][856]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.21.25:407][856]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.21.25
+[2019.04.02-16.21.25:407][856]LogWorld: Bringing up level for play took: 0.001109
+[2019.04.02-16.21.25:410][856]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level -0.273
+[2019.04.02-16.21.25:410][856]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.21.41:328][602]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.21.41:373][602]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.21.43:594][673]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.02-16.23.15:112][994]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024de1bba868, Size=4, Default__SKEL_Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.SKEL_Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.23.32:334][ 17]BlueprintLog: New page: Compile Game_Level
+[2019.04.02-16.23.32:340][ 17]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024de1bba868, Size=4
+[2019.04.02-16.23.32:340][ 17]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024ddad96fb8, Size=4, Default__SKEL_Game_Level_C Function /Engine/Transient.REINST_SKEL_Game_Level_C_188:ExecuteUbergraph_Game_Level
+[2019.04.02-16.23.32:345][ 17]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024db0f0cb80, Size=400
+[2019.04.02-16.23.32:345][ 17]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024d7aa76cc0, Size=400, Default__Game_Level_C Function /Engine/Transient.REINST_Game_Level_C_190:ExecuteUbergraph_Game_Level
+[2019.04.02-16.23.32:347][ 17]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024db0f0e780, Size=432, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.23.32:449][ 17]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024ddad96fb8, Size=4
+[2019.04.02-16.23.37:462][200]LogEditorViewport: Clicking on Actor (LMB): Wooden_Door_Frame_C (Wooden_Door_Frame)
+[2019.04.02-16.23.38:054][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.23.38:137][237]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.23.38:163][237]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.23.38:163][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.23.38:163][237]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:23:38)
+[2019.04.02-16.23.38:163][237]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.23.38:165][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001840s)
+[2019.04.02-16.23.38:165][237]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.23.38:165][237]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2019.04.02-16.23.38:166][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.002561s)
+[2019.04.02-16.23.38:192][237]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024d7aa76cc0, Size=400
+[2019.04.02-16.23.38:203][237]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.23.38:264][237]LogInit: FAudioDevice initialized.
+[2019.04.02-16.23.38:297][237]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.23.38:299][237]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.23.38
+[2019.04.02-16.23.38:299][237]LogWorld: Bringing up level for play took: 0.001000
+[2019.04.02-16.23.38:302][237]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level 0.619
+[2019.04.02-16.23.38:302][237]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.23.44:371][599]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.23.44:414][599]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.23.48:552][820]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.23.58:535][415]BlueprintLog: New page: Compile Game_Level
+[2019.04.02-16.23.58:546][415]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024db0f0e780, Size=432
+[2019.04.02-16.23.58:546][415]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024de2694480, Size=432, Default__Game_Level_C Function /Engine/Transient.REINST_Game_Level_C_194:ExecuteUbergraph_Game_Level
+[2019.04.02-16.23.58:548][415]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024de26942c0, Size=432, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.24.01:629][570]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.24.01:652][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.24.01:652][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.24.01:652][570]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:24:01)
+[2019.04.02-16.24.01:653][570]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.24.01:655][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002164s)
+[2019.04.02-16.24.01:655][570]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.24.01:655][570]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2019.04.02-16.24.01:657][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.003041s)
+[2019.04.02-16.24.01:690][570]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.24.01:755][570]LogInit: FAudioDevice initialized.
+[2019.04.02-16.24.01:785][570]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.24.01:787][570]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.24.01
+[2019.04.02-16.24.01:787][570]LogWorld: Bringing up level for play took: 0.000891
+[2019.04.02-16.24.01:789][570]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level 0.107
+[2019.04.02-16.24.01:789][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.24.06:743][865]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.24.06:788][865]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.24.07:917][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.24.18:042][528]BlueprintLog: New page: Compile Game_Level
+[2019.04.02-16.24.18:055][528]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024de26942c0, Size=432
+[2019.04.02-16.24.18:055][528]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024db9e6c800, Size=432, Game_Level_C_2 Function /Engine/Transient.REINST_Game_Level_C_198:ExecuteUbergraph_Game_Level
+[2019.04.02-16.24.18:058][528]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024db9e6d600, Size=432, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.24.19:531][606]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.24.19:563][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.24.19:564][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.24.19:564][606]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:24:19)
+[2019.04.02-16.24.19:564][606]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.24.19:566][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002306s)
+[2019.04.02-16.24.19:567][606]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.24.19:567][606]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2019.04.02-16.24.19:567][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.003219s)
+[2019.04.02-16.24.19:601][606]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.24.19:661][606]LogInit: FAudioDevice initialized.
+[2019.04.02-16.24.19:692][606]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.24.19:694][606]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.24.19
+[2019.04.02-16.24.19:694][606]LogWorld: Bringing up level for play took: 0.000797
+[2019.04.02-16.24.19:696][606]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level 0.014
+[2019.04.02-16.24.19:697][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.24.49:721][398]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.24.49:764][398]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.24.53:636][454]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.02-16.28.13:398][791]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024db9e6d600, Size=432
+[2019.04.02-16.28.13:398][791]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024e0f503ac0, Size=432, Game_Level_C_3 Function /Engine/Transient.REINST_Game_Level_C_202:ExecuteUbergraph_Game_Level
+[2019.04.02-16.28.13:402][791]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024db9e6c480, Size=432, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.28.13:593][791]LogSavePackage: Save=208.09ms
+[2019.04.02-16.28.13:593][791]LogSavePackage: Moving 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Game_Level_Auto1F37733B24EFA541026F0A9945E9358C1.tmp' to 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Autosaves/Game/LevelDesign/Game_Level/Game_Level_Auto1.umap'
+[2019.04.02-16.28.13:596][791]LogSavePackage: Display: Finished SavePackage E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Autosaves/Game/LevelDesign/Game_Level/Game_Level_Auto1.umap
+[2019.04.02-16.28.13:606][791]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelDesign/Game_Level/Game_Level' took 0.646
+[2019.04.02-16.28.13:606][791]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.646
+[2019.04.02-16.28.13:611][791]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.04.02-16.28.13:625][791]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.04.02-16.28.13:625][791]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.04.02-16.28.13:725][791]LogSavePackage: Save=74.82ms
+[2019.04.02-16.28.13:725][791]LogSavePackage: Moving 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/ThirdPersonCharacter_Auto179271BAA496638573854EE8BCF5A5E30.tmp' to 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2019.04.02-16.28.13:726][791]LogSavePackage: Display: Finished SavePackage E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2019.04.02-16.28.13:727][791]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelDesign/Wooden_Door_Frame] ([1] browsable assets)...
+[2019.04.02-16.28.13:739][791]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LevelDesign/Wooden_Door_Frame.Wooden_Door_Frame]
+[2019.04.02-16.28.13:739][791]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelDesign/Wooden_Door_Frame]
+[2019.04.02-16.28.13:823][791]LogSavePackage: Save=57.42ms
+[2019.04.02-16.28.13:824][791]LogSavePackage: Moving 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Wooden_Door_Frame_Auto1809E90A544098653B0D4BCAF4D832D8B.tmp' to 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Autosaves/Game/LevelDesign/Wooden_Door_Frame_Auto1.uasset'
+[2019.04.02-16.28.13:829][791]LogSavePackage: Display: Finished SavePackage E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Autosaves/Game/LevelDesign/Wooden_Door_Frame_Auto1.uasset
+[2019.04.02-16.28.13:829][791]LogFileHelpers: Auto-saving content packages took 0.221
+[2019.04.02-16.29.55:472][878]LogEditorTransaction: Undo Move Node
+[2019.04.02-16.29.55:474][878]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024e0d94d920, Size=4, Default__SKEL_Wooden_Door_Frame_C Function /Game/LevelDesign/Wooden_Door_Frame.SKEL_Wooden_Door_Frame_C:ExecuteUbergraph_Wooden_Door_Frame
+[2019.04.02-16.29.56:074][911]LogEditorTransaction: Undo Add Node
+[2019.04.02-16.29.56:075][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024e0d94d920, Size=4
+[2019.04.02-16.29.56:075][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024dfdc0b4c0, Size=4, Default__SKEL_Wooden_Door_Frame_C Function /Engine/Transient.REINST_SKEL_Wooden_Door_Frame_C_206:ExecuteUbergraph_Wooden_Door_Frame
+[2019.04.02-16.29.56:076][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024dfdc0a900, Size=4, Default__SKEL_Wooden_Door_Frame_C Function /Game/LevelDesign/Wooden_Door_Frame.SKEL_Wooden_Door_Frame_C:ExecuteUbergraph_Wooden_Door_Frame
+[2019.04.02-16.30.00:103][149]LogEditorTransaction: Undo Add Node
+[2019.04.02-16.30.00:104][149]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024dfdc0a900, Size=4
+[2019.04.02-16.30.00:104][149]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024dbbc9e190, Size=4, Default__SKEL_Wooden_Door_Frame_C Function /Engine/Transient.REINST_SKEL_Wooden_Door_Frame_C_208:ExecuteUbergraph_Wooden_Door_Frame
+[2019.04.02-16.32.43:720][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.33.08:186][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.33.15:387][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.33.18:774][506]LogEditorViewport: Clicking on Actor (LMB): Wooden_Door_Frame_C (Wooden_Door_Frame)
+[2019.04.02-16.33.19:687][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.35.00:519][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.35.00:561][ 69]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.35.00:561][ 69]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.02-16.35.00:575][ 69]LogPlayLevel: [PlayLevel] Compiling Wooden_Door_Frame before play...
+[2019.04.02-16.35.01:248][ 69]LogPlayLevel: [PlayLevel] Compiling Game_Level before play...
+[2019.04.02-16.35.01:255][ 69]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024db9e6c480, Size=432
+[2019.04.02-16.35.01:255][ 69]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024da2964640, Size=432, Game_Level_C_4 Function /Engine/Transient.REINST_Game_Level_C_218:ExecuteUbergraph_Game_Level
+[2019.04.02-16.35.01:258][ 69]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024db9e6c9c0, Size=448, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.35.01:368][ 69]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024dbbc9e190, Size=4
+[2019.04.02-16.35.01:368][ 69]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024dfdc0b4c0, Size=4
+[2019.04.02-16.35.01:368][ 69]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024da2964640, Size=432
+[2019.04.02-16.35.01:370][ 69]LogPlayLevel: PlayLevel: Blueprint regeneration took 807 ms (2 blueprints)
+[2019.04.02-16.35.01:370][ 69]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:35:01)
+[2019.04.02-16.35.01:370][ 69]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.35.01:372][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002186s)
+[2019.04.02-16.35.01:373][ 69]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.35.01:373][ 69]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2019.04.02-16.35.01:373][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.003162s)
+[2019.04.02-16.35.01:410][ 69]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.35.01:470][ 69]LogInit: FAudioDevice initialized.
+[2019.04.02-16.35.01:511][ 69]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.35.01:512][ 69]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.35.01
+[2019.04.02-16.35.01:513][ 69]LogWorld: Bringing up level for play took: 0.001172
+[2019.04.02-16.35.01:515][ 69]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level 1.833
+[2019.04.02-16.35.01:515][ 69]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.35.03:858][196]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.35.03:901][196]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.35.05:203][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.35.06:425][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.35.07:293][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.35.07:376][398]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.35.07:410][398]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.35.07:410][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.35.07:410][398]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:35:07)
+[2019.04.02-16.35.07:410][398]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.35.07:412][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001905s)
+[2019.04.02-16.35.07:413][398]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.35.07:413][398]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2019.04.02-16.35.07:413][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.002644s)
+[2019.04.02-16.35.07:448][398]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.35.07:511][398]LogInit: FAudioDevice initialized.
+[2019.04.02-16.35.07:546][398]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.35.07:548][398]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.35.07
+[2019.04.02-16.35.07:548][398]LogWorld: Bringing up level for play took: 0.001065
+[2019.04.02-16.35.07:550][398]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level -0.132
+[2019.04.02-16.35.07:550][398]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.35.19:032][ 78]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.35.19:079][ 78]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.35.27:667][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.02-16.35.50:163][486]BlueprintLog: New page: Compile Game_Level
+[2019.04.02-16.35.50:177][486]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024db9e6c9c0, Size=448
+[2019.04.02-16.35.50:177][486]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024e23d89980, Size=448, Game_Level_C_5 Function /Engine/Transient.REINST_Game_Level_C_222:ExecuteUbergraph_Game_Level
+[2019.04.02-16.35.50:180][486]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024e25c21000, Size=464, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.35.52:789][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.35.52:856][616]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.35.52:883][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.35.52:883][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.02-16.35.52:883][616]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:35:52)
+[2019.04.02-16.35.52:883][616]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.35.52:885][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001983s)
+[2019.04.02-16.35.52:886][616]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.35.52:886][616]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2019.04.02-16.35.52:886][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.002753s)
+[2019.04.02-16.35.52:909][616]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024e23d89980, Size=448
+[2019.04.02-16.35.52:920][616]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.35.53:003][616]LogInit: FAudioDevice initialized.
+[2019.04.02-16.35.53:037][616]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.35.53:038][616]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.35.53
+[2019.04.02-16.35.53:039][616]LogWorld: Bringing up level for play took: 0.000836
+[2019.04.02-16.35.53:041][616]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level -0.642
+[2019.04.02-16.35.53:041][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.36.04:537][302]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.36.04:585][302]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.36.08:190][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.02-16.38.40:729][389]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024e25c21000, Size=464
+[2019.04.02-16.38.40:729][389]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024e128b9600, Size=464, Game_Level_C_6 Function /Engine/Transient.REINST_Game_Level_C_226:ExecuteUbergraph_Game_Level
+[2019.04.02-16.38.40:732][389]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024e214fe240, Size=448, Default__Game_Level_C Function /Game/LevelDesign/Game_Level/Game_Level.Game_Level_C:ExecuteUbergraph_Game_Level
+[2019.04.02-16.38.40:886][389]LogSavePackage: Save=170.20ms
+[2019.04.02-16.38.40:887][389]LogSavePackage: Moving 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Game_Level_Auto2E29C86E44EF380BD38E84B9779D0151F.tmp' to 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Autosaves/Game/LevelDesign/Game_Level/Game_Level_Auto2.umap'
+[2019.04.02-16.38.40:890][389]LogSavePackage: Display: Finished SavePackage E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Autosaves/Game/LevelDesign/Game_Level/Game_Level_Auto2.umap
+[2019.04.02-16.38.40:896][389]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LevelDesign/Game_Level/Game_Level' took 0.229
+[2019.04.02-16.38.40:896][389]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.229
+[2019.04.02-16.38.40:899][389]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelDesign/Wooden_Door_Frame] ([1] browsable assets)...
+[2019.04.02-16.38.40:914][389]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/LevelDesign/Wooden_Door_Frame.Wooden_Door_Frame]
+[2019.04.02-16.38.40:914][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelDesign/Wooden_Door_Frame]
+[2019.04.02-16.38.41:000][389]LogSavePackage: Save=55.33ms
+[2019.04.02-16.38.41:000][389]LogSavePackage: Moving 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Wooden_Door_Frame_Auto2884CE18C4A00C49D568DD9935296454C.tmp' to 'E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Autosaves/Game/LevelDesign/Wooden_Door_Frame_Auto2.uasset'
+[2019.04.02-16.38.41:008][389]LogSavePackage: Display: Finished SavePackage E:/University Work/Year 1/Term 2/Introduction to art/AE2/TheDen/Saved/Autosaves/Game/LevelDesign/Wooden_Door_Frame_Auto2.uasset
+[2019.04.02-16.38.41:008][389]LogFileHelpers: Auto-saving content packages took 0.110
+[2019.04.02-16.40.37:693][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.40.50:425][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.02-16.40.50:942][939]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.02-16.40.50:970][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.40.50:970][939]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.02-16.40.50:984][939]LogPlayLevel: [PlayLevel] Compiling Wooden_Door_Frame before play...
+[2019.04.02-16.40.51:429][939]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024e128b9600, Size=464
+[2019.04.02-16.40.51:430][939]LogPlayLevel: PlayLevel: Blueprint regeneration took 460 ms (1 blueprints)
+[2019.04.02-16.40.51:430][939]PIE: New page: PIE session: Game_Level (2 Apr 2019 18:40:51)
+[2019.04.02-16.40.51:430][939]LogPlayLevel: Creating play world package: /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level
+[2019.04.02-16.40.51:432][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002050s)
+[2019.04.02-16.40.51:433][939]LogAIModule: Creating AISystem for world Game_Level
+[2019.04.02-16.40.51:433][939]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2019.04.02-16.40.51:433][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelDesign/Game_Level/Game_Level.Game_Level to /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level (0.003154s)
+[2019.04.02-16.40.51:469][939]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.02-16.40.51:531][939]LogInit: FAudioDevice initialized.
+[2019.04.02-16.40.51:567][939]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.02-16.40.51:569][939]LogWorld: Bringing World /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level.Game_Level up for play (max tick rate 60) at 2019.04.02-17.40.51
+[2019.04.02-16.40.51:569][939]LogWorld: Bringing up level for play took: 0.000960
+[2019.04.02-16.40.51:571][939]PIE: Play in editor start time for /Game/LevelDesign/Game_Level/UEDPIE_0_Game_Level -0.112
+[2019.04.02-16.40.51:571][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.41.12:344][183]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.41.12:383][183]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel' has LevelScriptBlueprint '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level' with GeneratedClass '/Game/LevelDesign/Game_Level/Game_Level.Game_Level_C' with ClassGeneratedBy '/Game/LevelDesign/Game_Level/Game_Level.Game_Level:PersistentLevel.Game_Level'
+[2019.04.02-16.41.16:098][232]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.02-16.41.18:964][302]LogUObjectArray: Warning: Invalid object index -572662307
+[2019.04.02-16.41.20:088][302]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.114 s
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: 
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: Stack: 
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000000CA3B706 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000000C79AE3A UE4Editor-Core.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000000C7AECD6 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x00000000E9223DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x00000000F4CAB2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x00000000E73FC22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x00000000E72877AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x00000000E728AEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x00000000E73C6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000000F196057 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000000F19BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000000F3CC253 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000000F1F0475 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000000F1C8360 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000000F1BB197 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000003106E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x0000000031061B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000003107052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000003105D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x00000000493BCA66 USER32.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x00000000493BC582 USER32.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x0000000031071666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000004B205475 UE4Editor.exe!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000004B216BD0 UE4Editor.exe!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000004B216C4A UE4Editor.exe!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000004B224177 UE4Editor.exe!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x000000004B225B87 UE4Editor.exe!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x00000000496181F4 KERNEL32.DLL!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: [Callstack] 0x0000000049BDA251 ntdll.dll!UnknownFunction []
+[2019.04.02-16.41.20:089][302]LogOutputDevice: Error: 
+[2019.04.02-16.41.20:097][302]LogStats:                SubmitErrorReport -  0.000 s
